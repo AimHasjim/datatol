@@ -1,0 +1,757 @@
+"","Gerbang Transaksi","Bagian","Kecamatan","Proporsi","periode","transaksi","periodate","NA.","cummsales","Gas","COVID","MLFFJorr","vars","TollPrice","id","MLFF","nataru","lebaran","asiangames","desari"
+"1","Jagorawi","Utama","Kramat Jati// Cipayung// Ciracas//Makasar//Cimanggis",0.924708312168135,"January 2018",12487992,2018-01-31,"1",72741,8250,0,0,"X1",6500,1,0,0,0,0,0
+"2","Ramp TMII & Dukuh","Seksi","Kramat Jati// Makasar",0.974476055438646,"January 2018",2606427,2018-01-31,"1",72741,8250,0,0,"X4",6500,2,0,0,0,0,0
+"3","Ramp Cibubur","Seksi","Cipayung//Ciracas//Cimanggis",0.937565580954413,"January 2018",2069840,2018-01-31,"1",72741,8250,0,0,"X5",6500,3,0,0,0,0,0
+"4","Cawang - Cimanggis","Seksi","Cimanggis",0.907163271626811,"January 2018",7811725,2018-01-31,"1",72741,8250,0,0,"X6",6500,4,0,0,0,0,0
+"5","Japek","Utama","Bekasi Barat//Pondok Gede//Bekasi Timur//Tambun Selatan//Cibitung//Bekasi Selatan",0.802570510097598,"January 2018",16416295,2018-01-31,"1",72741,8250,0,0,"X7",3000,5,0,0,0,0,0
+"6","Ramp PGT & PGB","Seksi","Pondok Gede",0.9792717617727,"January 2018",1671099,2018-01-31,"1",72741,8250,0,0,"X10",1500,6,0,0,0,0,0
+"7","Ramp Cawang-Cikarang","Seksi","Bekasi Barat//Bekasi Timur//Tambun Selatan//Cibitung//Bekasi Selatan",0.787840520191094,"January 2018",9869836,2018-01-31,"1",72741,8250,0,0,"X11",4500,7,0,0,0,0,0
+"8","Jakarta-Tangerang","Utama","Tanjung Duren//Kebon Jeruk//Kembangan//Karang Tengah//",0.880693561024901,"January 2018",11521291,2018-01-31,"1",72741,8250,0,0,"X13",7000,9,0,0,0,0,0
+"9","Jakarta-Tangerang","Seksi","Tanjung Duren//Kebon Jeruk//Kembangan//Karang Tengah//",0.880693561024901,"January 2018",11521291,2018-01-31,"1",72741,8250,0,0,"X13",7000,11,0,0,0,0,0
+"10","Lingkar Dalam & Sedyatmo","NON",NA,0.933530437720865,"January 2018",25093352,2018-01-31,"1",72741,8250,0,0,"X14",9500,12,0,0,0,0,0
+"11","Dalam Kota Jakarta","Utama",NA,0.936019156888263,"January 2018",18166382,2018-01-31,"1",72741,8250,0,0,"X15",9500,13,0,0,0,0,0
+"12","Cawang-Tomang-Pluit","Seksi","Jatinegara//Setiabudi//Pancoran//Kebayoran Baru//Tanah Abang//Palmerah//Grogol Petamburan//Tambora//Penjaringan",0.957217930477783,"January 2018",10126024,2018-01-31,"1",72741,8250,0,0,"X16",9500,14,0,0,0,0,0
+"13","Cawang-Tj.Priok-Pluit","Seksi","Jatinegara//Pulo Gadung//Cempaka Putih//Pademangan//Penjaringan",0.908716760650925,"January 2018",8040358,2018-01-31,"1",72741,8250,0,0,"X17",9500,15,0,0,0,0,0
+"14","Sedyatmo","Utama","Kalideres//Penjaringan",0.927166437543253,"January 2018",6926970,2018-01-31,"1",72741,8250,0,0,"X18",7000,16,0,0,0,0,0
+"15","JORR","Utama",NA,0.887383799634147,"January 2018",12072661,2018-01-31,"1",72741,8250,0,0,"X19",9500,17,0,0,0,0,0
+"16","Seksi W2","Seksi","Kembangan//Pesanggrahan//Cengkareng",0.971589006295137,"January 2018",2874474,2018-01-31,"1",72741,8250,0,0,"X20",9500,18,0,0,0,0,0
+"17","Seksi S","Seksi","Kebayoran Lama//Jagakarsa//Cilandak//Pasar Minggu//Pesanggrahan//Pasar Rebo//Ciracas",0.939113033953954,"January 2018",5243597,2018-01-31,"1",72741,8250,0,0,"X21",9500,19,0,0,0,0,0
+"18","Seksi E1","Seksi","Pondok Melati//Jatiasih//Bekasi Selatan",0.807331384607543,"January 2018",3335860,2018-01-31,"1",72741,8250,0,0,"X22",9500,20,0,0,0,0,0
+"19","Seksi E2","Seksi","Bekasi Barat//Cakung//Cilincing",0.877173204754621,"January 2018",1348210,2018-01-31,"1",72741,8250,0,0,"X23",9500,21,0,0,0,0,0
+"20","Seksi E3","Seksi","Cakung//Cilincing",0.466393607345187,"January 2018",599412,2018-01-31,"1",72741,8250,0,0,"X24",9500,22,0,0,0,0,0
+"21","Ulujami – Pondok Aren","Seksi","Serpong//Ciputat//Pondok Aren",0.989144647819015,"January 2018",3914705,2018-01-31,"1",72741,8250,0,0,"X25",6500,23,0,0,0,0,0
+"22","Jagorawi","Utama","Kramat Jati// Cipayung// Ciracas//Makasar//Cimanggis",0.924708312168135,"February 2018",11055053,2018-02-28,"2",143744,8250,0,0,"X1",6500,24,0,0,0,0,0
+"23","Ramp TMII & Dukuh","Seksi","Kramat Jati// Makasar",0.974476055438646,"February 2018",2357912,2018-02-28,"2",143744,8250,0,0,"X4",6500,25,0,0,0,0,0
+"24","Ramp Cibubur","Seksi","Cipayung//Ciracas//Cimanggis",0.937565580954413,"February 2018",1892439,2018-02-28,"2",143744,8250,0,0,"X5",6500,26,0,0,0,0,0
+"25","Cawang - Cimanggis","Seksi","Cimanggis",0.907163271626811,"February 2018",6804702,2018-02-28,"2",143744,8250,0,0,"X6",6500,27,0,0,0,0,0
+"26","Japek","Utama","Bekasi Barat//Pondok Gede//Bekasi Timur//Tambun Selatan//Cibitung//Bekasi Selatan",0.802570510097598,"February 2018",14096854,2018-02-28,"2",143744,8250,0,0,"X7",3000,28,0,0,0,0,0
+"27","Ramp PGT & PGB","Seksi","Pondok Gede",0.9792717617727,"February 2018",1523200,2018-02-28,"2",143744,8250,0,0,"X10",1500,29,0,0,0,0,0
+"28","Ramp Cawang-Cikarang","Seksi","Bekasi Barat//Bekasi Timur//Tambun Selatan//Cibitung//Bekasi Selatan",0.787840520191094,"February 2018",8493337,2018-02-28,"2",143744,8250,0,0,"X11",4500,30,0,0,0,0,0
+"29","Jakarta-Tangerang","Utama","Tanjung Duren//Kebon Jeruk//Kembangan//Karang Tengah//",0.880693561024901,"February 2018",10558681,2018-02-28,"2",143744,8250,0,0,"X13",7000,32,0,0,0,0,0
+"30","Jakarta-Tangerang","Seksi","Tanjung Duren//Kebon Jeruk//Kembangan//Karang Tengah//",0.880693561024901,"February 2018",10558681,2018-02-28,"2",143744,8250,0,0,"X13",7000,34,0,0,0,0,0
+"31","Lingkar Dalam & Sedyatmo","NON",NA,0.933530437720865,"February 2018",23010102,2018-02-28,"2",143744,8250,0,0,"X14",9500,35,0,0,0,0,0
+"32","Dalam Kota Jakarta","Utama",NA,0.936019156888263,"February 2018",16576605,2018-02-28,"2",143744,8250,0,0,"X15",9500,36,0,0,0,0,0
+"33","Cawang-Tomang-Pluit","Seksi","Jatinegara//Setiabudi//Pancoran//Kebayoran Baru//Tanah Abang//Palmerah//Grogol Petamburan//Tambora//Penjaringan",0.957217930477783,"February 2018",9206024,2018-02-28,"2",143744,8250,0,0,"X16",9500,37,0,0,0,0,0
+"34","Cawang-Tj.Priok-Pluit","Seksi","Jatinegara//Pulo Gadung//Cempaka Putih//Pademangan//Penjaringan",0.908716760650925,"February 2018",7370581,2018-02-28,"2",143744,8250,0,0,"X17",9500,38,0,0,0,0,0
+"35","Sedyatmo","Utama","Kalideres//Penjaringan",0.927166437543253,"February 2018",6433497,2018-02-28,"2",143744,8250,0,0,"X18",7000,39,0,0,0,0,0
+"36","JORR","Utama",NA,0.887383799634147,"February 2018",10796313,2018-02-28,"2",143744,8250,0,0,"X19",9500,40,0,0,0,0,0
+"37","Seksi W2","Seksi","Kembangan//Pesanggrahan//Cengkareng",0.971589006295137,"February 2018",2630914,2018-02-28,"2",143744,8250,0,0,"X20",9500,41,0,0,0,0,0
+"38","Seksi S","Seksi","Kebayoran Lama//Jagakarsa//Cilandak//Pasar Minggu//Pesanggrahan//Pasar Rebo//Ciracas",0.939113033953954,"February 2018",4773914,2018-02-28,"2",143744,8250,0,0,"X21",9500,42,0,0,0,0,0
+"39","Seksi E1","Seksi","Pondok Melati//Jatiasih//Bekasi Selatan",0.807331384607543,"February 2018",2920203,2018-02-28,"2",143744,8250,0,0,"X22",9500,43,0,0,0,0,0
+"40","Seksi E2","Seksi","Bekasi Barat//Cakung//Cilincing",0.877173204754621,"February 2018",1168642,2018-02-28,"2",143744,8250,0,0,"X23",9500,44,0,0,0,0,0
+"41","Seksi E3","Seksi","Cakung//Cilincing",0.466393607345187,"February 2018",482041,2018-02-28,"2",143744,8250,0,0,"X24",9500,45,0,0,0,0,0
+"42","Ulujami – Pondok Aren","Seksi","Serpong//Ciputat//Pondok Aren",0.989144647819015,"February 2018",3591331,2018-02-28,"2",143744,8250,0,0,"X25",6500,46,0,0,0,0,0
+"43","Jagorawi","Utama","Kramat Jati// Cipayung// Ciracas//Makasar//Cimanggis",0.924708312168135,"March 2018",12571281,2018-03-31,"3",221083,8250,0,0,"X1",6500,47,0,0,0,0,0
+"44","Ramp TMII & Dukuh","Seksi","Kramat Jati// Makasar",0.974476055438646,"March 2018",2635889,2018-03-31,"3",221083,8250,0,0,"X4",6500,48,0,0,0,0,0
+"45","Ramp Cibubur","Seksi","Cipayung//Ciracas//Cimanggis",0.937565580954413,"March 2018",2083511,2018-03-31,"3",221083,8250,0,0,"X5",6500,49,0,0,0,0,0
+"46","Cawang - Cimanggis","Seksi","Cimanggis",0.907163271626811,"March 2018",7851881,2018-03-31,"3",221083,8250,0,0,"X6",6500,50,0,0,0,0,0
+"47","Japek","Utama","Bekasi Barat//Pondok Gede//Bekasi Timur//Tambun Selatan//Cibitung//Bekasi Selatan",0.802570510097598,"March 2018",15661487,2018-03-31,"3",221083,8250,0,0,"X7",3000,51,0,0,0,0,0
+"48","Ramp PGT & PGB","Seksi","Pondok Gede",0.9792717617727,"March 2018",1695211,2018-03-31,"3",221083,8250,0,0,"X10",1500,52,0,0,0,0,0
+"49","Ramp Cawang-Cikarang","Seksi","Bekasi Barat//Bekasi Timur//Tambun Selatan//Cibitung//Bekasi Selatan",0.787840520191094,"March 2018",9437730,2018-03-31,"3",221083,8250,0,0,"X11",4500,53,0,0,0,0,0
+"50","Jakarta-Tangerang","Utama","Tanjung Duren//Kebon Jeruk//Kembangan//Karang Tengah//",0.880693561024901,"March 2018",11645709,2018-03-31,"3",221083,8250,0,0,"X13",7000,55,0,0,0,0,0
+"51","Jakarta-Tangerang","Seksi","Tanjung Duren//Kebon Jeruk//Kembangan//Karang Tengah//",0.880693561024901,"March 2018",11645709,2018-03-31,"3",221083,8250,0,0,"X13",7000,57,0,0,0,0,0
+"52","Lingkar Dalam & Sedyatmo","NON",NA,0.933530437720865,"March 2018",25831323,2018-03-31,"3",221083,8250,0,0,"X14",9500,58,0,0,0,0,0
+"53","Dalam Kota Jakarta","Utama",NA,0.936019156888263,"March 2018",18584693,2018-03-31,"3",221083,8250,0,0,"X15",9500,59,0,0,0,0,0
+"54","Cawang-Tomang-Pluit","Seksi","Jatinegara//Setiabudi//Pancoran//Kebayoran Baru//Tanah Abang//Palmerah//Grogol Petamburan//Tambora//Penjaringan",0.957217930477783,"March 2018",10322810,2018-03-31,"3",221083,8250,0,0,"X16",9500,60,0,0,0,0,0
+"55","Cawang-Tj.Priok-Pluit","Seksi","Jatinegara//Pulo Gadung//Cempaka Putih//Pademangan//Penjaringan",0.908716760650925,"March 2018",8261883,2018-03-31,"3",221083,8250,0,0,"X17",9500,61,0,0,0,0,0
+"56","Sedyatmo","Utama","Kalideres//Penjaringan",0.927166437543253,"March 2018",7246630,2018-03-31,"3",221083,8250,0,0,"X18",7000,62,0,0,0,0,0
+"57","JORR","Utama",NA,0.887383799634147,"March 2018",11983247,2018-03-31,"3",221083,8250,0,0,"X19",9500,63,0,0,0,0,0
+"58","Seksi W2","Seksi","Kembangan//Pesanggrahan//Cengkareng",0.971589006295137,"March 2018",2931129,2018-03-31,"3",221083,8250,0,0,"X20",9500,64,0,0,0,0,0
+"59","Seksi S","Seksi","Kebayoran Lama//Jagakarsa//Cilandak//Pasar Minggu//Pesanggrahan//Pasar Rebo//Ciracas",0.939113033953954,"March 2018",5292968,2018-03-31,"3",221083,8250,0,0,"X21",9500,65,0,0,0,0,0
+"60","Seksi E1","Seksi","Pondok Melati//Jatiasih//Bekasi Selatan",0.807331384607543,"March 2018",3268052,2018-03-31,"3",221083,8250,0,0,"X22",9500,66,0,0,0,0,0
+"61","Seksi E2","Seksi","Bekasi Barat//Cakung//Cilincing",0.877173204754621,"March 2018",1245429,2018-03-31,"3",221083,8250,0,0,"X23",9500,67,0,0,0,0,0
+"62","Seksi E3","Seksi","Cakung//Cilincing",0.466393607345187,"March 2018",560796,2018-03-31,"3",221083,8250,0,0,"X24",9500,68,0,0,0,0,0
+"63","Ulujami – Pondok Aren","Seksi","Serpong//Ciputat//Pondok Aren",0.989144647819015,"March 2018",3977841,2018-03-31,"3",221083,8250,0,0,"X25",6500,69,0,0,0,0,0
+"64","Jagorawi","Utama","Kramat Jati// Cipayung// Ciracas//Makasar//Cimanggis",0.924708312168135,"April 2018",12246484,2018-04-30,"4",299966,8900,0,0,"X1",6500,70,0,0,0,0,0
+"65","Ramp TMII & Dukuh","Seksi","Kramat Jati// Makasar",0.974476055438646,"April 2018",2549379,2018-04-30,"4",299966,8900,0,0,"X4",6500,71,0,0,0,0,0
+"66","Ramp Cibubur","Seksi","Cipayung//Ciracas//Cimanggis",0.937565580954413,"April 2018",1958031,2018-04-30,"4",299966,8900,0,0,"X5",6500,72,0,0,0,0,0
+"67","Cawang - Cimanggis","Seksi","Cimanggis",0.907163271626811,"April 2018",7741074,2018-04-30,"4",299966,8900,0,0,"X6",6500,73,0,0,0,0,0
+"68","Japek","Utama","Bekasi Barat//Pondok Gede//Bekasi Timur//Tambun Selatan//Cibitung//Bekasi Selatan",0.802570510097598,"April 2018",15580704,2018-04-30,"4",299966,8900,0,0,"X7",3000,74,0,0,0,0,0
+"69","Ramp PGT & PGB","Seksi","Pondok Gede",0.9792717617727,"April 2018",1644316,2018-04-30,"4",299966,8900,0,0,"X10",1500,75,0,0,0,0,0
+"70","Ramp Cawang-Cikarang","Seksi","Bekasi Barat//Bekasi Timur//Tambun Selatan//Cibitung//Bekasi Selatan",0.787840520191094,"April 2018",9420383,2018-04-30,"4",299966,8900,0,0,"X11",4500,76,0,0,0,0,0
+"71","Jakarta-Tangerang","Utama","Tanjung Duren//Kebon Jeruk//Kembangan//Karang Tengah//",0.880693561024901,"April 2018",11393473,2018-04-30,"4",299966,8900,0,0,"X13",7000,78,0,0,0,0,0
+"72","Jakarta-Tangerang","Seksi","Tanjung Duren//Kebon Jeruk//Kembangan//Karang Tengah//",0.880693561024901,"April 2018",11393473,2018-04-30,"4",299966,8900,0,0,"X13",7000,80,0,0,0,0,0
+"73","Lingkar Dalam & Sedyatmo","NON",NA,0.933530437720865,"April 2018",25527421,2018-04-30,"4",299966,8900,0,0,"X14",9500,81,0,0,0,0,0
+"74","Dalam Kota Jakarta","Utama",NA,0.936019156888263,"April 2018",18277694,2018-04-30,"4",299966,8900,0,0,"X15",9500,82,0,0,0,0,0
+"75","Cawang-Tomang-Pluit","Seksi","Jatinegara//Setiabudi//Pancoran//Kebayoran Baru//Tanah Abang//Palmerah//Grogol Petamburan//Tambora//Penjaringan",0.957217930477783,"April 2018",10174709,2018-04-30,"4",299966,8900,0,0,"X16",9500,83,0,0,0,0,0
+"76","Cawang-Tj.Priok-Pluit","Seksi","Jatinegara//Pulo Gadung//Cempaka Putih//Pademangan//Penjaringan",0.908716760650925,"April 2018",8102985,2018-04-30,"4",299966,8900,0,0,"X17",9500,84,0,0,0,0,0
+"77","Sedyatmo","Utama","Kalideres//Penjaringan",0.927166437543253,"April 2018",7249727,2018-04-30,"4",299966,8900,0,0,"X18",7000,85,0,0,0,0,0
+"78","JORR","Utama",NA,0.887383799634147,"April 2018",11660154,2018-04-30,"4",299966,8900,0,0,"X19",9500,86,0,0,0,0,0
+"79","Seksi W2","Seksi","Kembangan//Pesanggrahan//Cengkareng",0.971589006295137,"April 2018",2875336,2018-04-30,"4",299966,8900,0,0,"X20",9500,87,0,0,0,0,0
+"80","Seksi S","Seksi","Kebayoran Lama//Jagakarsa//Cilandak//Pasar Minggu//Pesanggrahan//Pasar Rebo//Ciracas",0.939113033953954,"April 2018",3156241,2018-04-30,"4",299966,8900,0,0,"X21",9500,88,0,0,0,0,0
+"81","Seksi E1","Seksi","Pondok Melati//Jatiasih//Bekasi Selatan",0.807331384607543,"April 2018",1243365,2018-04-30,"4",299966,8900,0,0,"X22",9500,89,0,0,0,0,0
+"82","Seksi E2","Seksi","Bekasi Barat//Cakung//Cilincing",0.877173204754621,"April 2018",495336,2018-04-30,"4",299966,8900,0,0,"X23",9500,90,0,0,0,0,0
+"83","Seksi E3","Seksi","Cakung//Cilincing",0.466393607345187,"April 2018",3889876,2018-04-30,"4",299966,8900,0,0,"X24",9500,91,0,0,0,0,0
+"84","Ulujami – Pondok Aren","Seksi","Serpong//Ciputat//Pondok Aren",0.989144647819015,"April 2018",3889876,2018-04-30,"4",299966,8900,0,0,"X25",6500,92,0,0,0,0,0
+"85","Jagorawi","Utama","Kramat Jati// Cipayung// Ciracas//Makasar//Cimanggis",0.924708312168135,"May 2018",12138911,2018-05-31,"5",380479,8900,0,0,"X1",6500,93,0,0,0,0,0
+"86","Ramp TMII & Dukuh","Seksi","Kramat Jati// Makasar",0.974476055438646,"May 2018",2511458,2018-05-31,"5",380479,8900,0,0,"X4",6500,94,0,0,0,0,0
+"87","Ramp Cibubur","Seksi","Cipayung//Ciracas//Cimanggis",0.937565580954413,"May 2018",1940849,2018-05-31,"5",380479,8900,0,0,"X5",6500,95,0,0,0,0,0
+"88","Cawang - Cimanggis","Seksi","Cimanggis",0.907163271626811,"May 2018",7686604,2018-05-31,"5",380479,8900,0,0,"X6",6500,96,0,0,0,0,0
+"89","Japek","Utama","Bekasi Barat//Pondok Gede//Bekasi Timur//Tambun Selatan//Cibitung//Bekasi Selatan",0.802570510097598,"May 2018",15427972,2018-05-31,"5",380479,8900,0,0,"X7",3000,97,0,0,0,0,0
+"90","Ramp PGT & PGB","Seksi","Pondok Gede",0.9792717617727,"May 2018",1660595,2018-05-31,"5",380479,8900,0,0,"X10",1500,98,0,0,0,0,0
+"91","Ramp Cawang-Cikarang","Seksi","Bekasi Barat//Bekasi Timur//Tambun Selatan//Cibitung//Bekasi Selatan",0.787840520191094,"May 2018",9313221,2018-05-31,"5",380479,8900,0,0,"X11",4500,99,0,0,0,0,0
+"92","Jakarta-Tangerang","Utama","Tanjung Duren//Kebon Jeruk//Kembangan//Karang Tengah//",0.880693561024901,"May 2018",11439244,2018-05-31,"5",380479,8900,0,0,"X13",7000,101,0,0,0,0,0
+"93","Jakarta-Tangerang","Seksi","Tanjung Duren//Kebon Jeruk//Kembangan//Karang Tengah//",0.880693561024901,"May 2018",11439244,2018-05-31,"5",380479,8900,0,0,"X13",7000,103,0,0,0,0,0
+"94","Lingkar Dalam & Sedyatmo","NON",NA,0.933530437720865,"May 2018",24957213,2018-05-31,"5",380479,8900,0,0,"X14",9500,104,0,0,0,0,0
+"95","Dalam Kota Jakarta","Utama",NA,0.936019156888263,"May 2018",17975669,2018-05-31,"5",380479,8900,0,0,"X15",9500,105,0,0,0,0,0
+"96","Cawang-Tomang-Pluit","Seksi","Jatinegara//Setiabudi//Pancoran//Kebayoran Baru//Tanah Abang//Palmerah//Grogol Petamburan//Tambora//Penjaringan",0.957217930477783,"May 2018",10089047,2018-05-31,"5",380479,8900,0,0,"X16",9500,106,0,0,0,0,0
+"97","Cawang-Tj.Priok-Pluit","Seksi","Jatinegara//Pulo Gadung//Cempaka Putih//Pademangan//Penjaringan",0.908716760650925,"May 2018",7886622,2018-05-31,"5",380479,8900,0,0,"X17",9500,107,0,0,0,0,0
+"98","Sedyatmo","Utama","Kalideres//Penjaringan",0.927166437543253,"May 2018",6981544,2018-05-31,"5",380479,8900,0,0,"X18",7000,108,0,0,0,0,0
+"99","JORR","Utama",NA,0.887383799634147,"May 2018",11366490,2018-05-31,"5",380479,8900,0,0,"X19",9500,109,0,0,0,0,0
+"100","Seksi W2","Seksi","Kembangan//Pesanggrahan//Cengkareng",0.971589006295137,"May 2018",2835468,2018-05-31,"5",380479,8900,0,0,"X20",9500,110,0,0,0,0,0
+"101","Seksi S","Seksi","Kebayoran Lama//Jagakarsa//Cilandak//Pasar Minggu//Pesanggrahan//Pasar Rebo//Ciracas",0.939113033953954,"May 2018",3067551,2018-05-31,"5",380479,8900,0,0,"X21",9500,111,0,0,0,0,0
+"102","Seksi E1","Seksi","Pondok Melati//Jatiasih//Bekasi Selatan",0.807331384607543,"May 2018",1153204,2018-05-31,"5",380479,8900,0,0,"X22",9500,112,0,0,0,0,0
+"103","Seksi E2","Seksi","Bekasi Barat//Cakung//Cilincing",0.877173204754621,"May 2018",452387,2018-05-31,"5",380479,8900,0,0,"X23",9500,113,0,0,0,0,0
+"104","Seksi E3","Seksi","Cakung//Cilincing",0.466393607345187,"May 2018",3857880,2018-05-31,"5",380479,8900,0,0,"X24",9500,114,0,0,0,0,0
+"105","Ulujami – Pondok Aren","Seksi","Serpong//Ciputat//Pondok Aren",0.989144647819015,"May 2018",3857880,2018-05-31,"5",380479,8900,0,0,"X25",6500,115,0,0,0,0,0
+"106","Jagorawi","Utama","Kramat Jati// Cipayung// Ciracas//Makasar//Cimanggis",0.924708312168135,"June 2018",11403125,2018-06-30,"6",423932,8900,0,0,"X1",6500,116,0,0,1,0,0
+"107","Ramp TMII & Dukuh","Seksi","Kramat Jati// Makasar",0.974476055438646,"June 2018",2216720,2018-06-30,"6",423932,8900,0,0,"X4",6500,117,0,0,1,0,0
+"108","Ramp Cibubur","Seksi","Cipayung//Ciracas//Cimanggis",0.937565580954413,"June 2018",1804253,2018-06-30,"6",423932,8900,0,0,"X5",6500,118,0,0,1,0,0
+"109","Cawang - Cimanggis","Seksi","Cimanggis",0.907163271626811,"June 2018",7382152,2018-06-30,"6",423932,8900,0,0,"X6",6500,119,0,0,1,0,0
+"110","Japek","Utama","Bekasi Barat//Pondok Gede//Bekasi Timur//Tambun Selatan//Cibitung//Bekasi Selatan",0.802570510097598,"June 2018",14709040,2018-06-30,"6",423932,8900,0,0,"X7",3000,120,0,0,1,0,0
+"111","Ramp PGT & PGB","Seksi","Pondok Gede",0.9792717617727,"June 2018",1472250,2018-06-30,"6",423932,8900,0,0,"X10",1500,121,0,0,1,0,0
+"112","Ramp Cawang-Cikarang","Seksi","Bekasi Barat//Bekasi Timur//Tambun Selatan//Cibitung//Bekasi Selatan",0.787840520191094,"June 2018",9019192,2018-06-30,"6",423932,8900,0,0,"X11",4500,122,0,0,1,0,0
+"113","Jakarta-Tangerang","Utama","Tanjung Duren//Kebon Jeruk//Kembangan//Karang Tengah//",0.880693561024901,"June 2018",10258679,2018-06-30,"6",423932,8900,0,0,"X13",7000,124,0,0,1,0,0
+"114","Jakarta-Tangerang","Seksi","Tanjung Duren//Kebon Jeruk//Kembangan//Karang Tengah//",0.880693561024901,"June 2018",10258679,2018-06-30,"6",423932,8900,0,0,"X13",7000,126,0,0,1,0,0
+"115","Lingkar Dalam & Sedyatmo","NON",NA,0.933530437720865,"June 2018",21480592,2018-06-30,"6",423932,8900,0,0,"X14",9500,127,0,0,1,0,0
+"116","Dalam Kota Jakarta","Utama",NA,0.936019156888263,"June 2018",15515362,2018-06-30,"6",423932,8900,0,0,"X15",9500,128,0,0,1,0,0
+"117","Cawang-Tomang-Pluit","Seksi","Jatinegara//Setiabudi//Pancoran//Kebayoran Baru//Tanah Abang//Palmerah//Grogol Petamburan//Tambora//Penjaringan",0.957217930477783,"June 2018",9035813,2018-06-30,"6",423932,8900,0,0,"X16",9500,129,0,0,1,0,0
+"118","Cawang-Tj.Priok-Pluit","Seksi","Jatinegara//Pulo Gadung//Cempaka Putih//Pademangan//Penjaringan",0.908716760650925,"June 2018",6479549,2018-06-30,"6",423932,8900,0,0,"X17",9500,130,0,0,1,0,0
+"119","Sedyatmo","Utama","Kalideres//Penjaringan",0.927166437543253,"June 2018",5965230,2018-06-30,"6",423932,8900,0,0,"X18",7000,131,0,0,1,0,0
+"120","JORR","Utama",NA,0.887383799634147,"June 2018",10230108,2018-06-30,"6",423932,8900,0,0,"X19",9500,132,0,0,1,0,0
+"121","Seksi W2","Seksi","Kembangan//Pesanggrahan//Cengkareng",0.971589006295137,"June 2018",2482076,2018-06-30,"6",423932,8900,0,0,"X20",9500,133,0,0,1,0,0
+"122","Seksi S","Seksi","Kebayoran Lama//Jagakarsa//Cilandak//Pasar Minggu//Pesanggrahan//Pasar Rebo//Ciracas",0.939113033953954,"June 2018",4622753,2018-06-30,"6",423932,8900,0,0,"X21",9500,134,0,0,1,0,0
+"123","Seksi E1","Seksi","Pondok Melati//Jatiasih//Bekasi Selatan",0.807331384607543,"June 2018",2951727,2018-06-30,"6",423932,8900,0,0,"X22",9500,135,0,0,1,0,0
+"124","Seksi E2","Seksi","Bekasi Barat//Cakung//Cilincing",0.877173204754621,"June 2018",1088565,2018-06-30,"6",423932,8900,0,0,"X23",9500,136,0,0,1,0,0
+"125","Seksi E3","Seksi","Cakung//Cilincing",0.466393607345187,"June 2018",366057,2018-06-30,"6",423932,8900,0,0,"X24",9500,137,0,0,1,0,0
+"126","Ulujami – Pondok Aren","Seksi","Serpong//Ciputat//Pondok Aren",0.989144647819015,"June 2018",3341683,2018-06-30,"6",423932,8900,0,0,"X25",6500,138,0,0,1,0,0
+"127","Jagorawi","Utama","Kramat Jati// Cipayung// Ciracas//Makasar//Cimanggis",0.924708312168135,"July 2018",12983060,2018-07-31,"7",506129,9500,0,0,"X1",6500,139,0,0,0,0,0
+"128","Ramp TMII & Dukuh","Seksi","Kramat Jati// Makasar",0.974476055438646,"July 2018",2658747,2018-07-31,"7",506129,9500,0,0,"X4",6500,140,0,0,0,0,0
+"129","Ramp Cibubur","Seksi","Cipayung//Ciracas//Cimanggis",0.937565580954413,"July 2018",2045110,2018-07-31,"7",506129,9500,0,0,"X5",6500,141,0,0,0,0,0
+"130","Cawang - Cimanggis","Seksi","Cimanggis",0.907163271626811,"July 2018",8279203,2018-07-31,"7",506129,9500,0,0,"X6",6500,142,0,0,0,0,0
+"131","Japek","Utama","Bekasi Barat//Pondok Gede//Bekasi Timur//Tambun Selatan//Cibitung//Bekasi Selatan",0.802570510097598,"July 2018",15910551,2018-07-31,"7",506129,9500,0,0,"X7",3000,143,0,0,0,0,0
+"132","Ramp PGT & PGB","Seksi","Pondok Gede",0.9792717617727,"July 2018",1747602,2018-07-31,"7",506129,9500,0,0,"X10",1500,144,0,0,0,0,0
+"133","Ramp Cawang-Cikarang","Seksi","Bekasi Barat//Bekasi Timur//Tambun Selatan//Cibitung//Bekasi Selatan",0.787840520191094,"July 2018",9517367,2018-07-31,"7",506129,9500,0,0,"X11",4500,145,0,0,0,0,0
+"134","Jakarta-Tangerang","Utama","Tanjung Duren//Kebon Jeruk//Kembangan//Karang Tengah//",0.880693561024901,"July 2018",12019501,2018-07-31,"7",506129,9500,0,0,"X13",7000,147,0,0,0,0,0
+"135","Jakarta-Tangerang","Seksi","Tanjung Duren//Kebon Jeruk//Kembangan//Karang Tengah//",0.880693561024901,"July 2018",12019501,2018-07-31,"7",506129,9500,0,0,"X13",7000,149,0,0,0,0,0
+"136","Lingkar Dalam & Sedyatmo","NON",NA,0.933530437720865,"July 2018",26218773,2018-07-31,"7",506129,9500,0,0,"X14",9500,150,0,0,0,0,0
+"137","Dalam Kota Jakarta","Utama",NA,0.936019156888263,"July 2018",18721040,2018-07-31,"7",506129,9500,0,0,"X15",9500,151,0,0,0,0,0
+"138","Cawang-Tomang-Pluit","Seksi","Jatinegara//Setiabudi//Pancoran//Kebayoran Baru//Tanah Abang//Palmerah//Grogol Petamburan//Tambora//Penjaringan",0.957217930477783,"July 2018",10519275,2018-07-31,"7",506129,9500,0,0,"X16",9500,152,0,0,0,0,0
+"139","Cawang-Tj.Priok-Pluit","Seksi","Jatinegara//Pulo Gadung//Cempaka Putih//Pademangan//Penjaringan",0.908716760650925,"July 2018",8201765,2018-07-31,"7",506129,9500,0,0,"X17",9500,153,0,0,0,0,0
+"140","Sedyatmo","Utama","Kalideres//Penjaringan",0.927166437543253,"July 2018",7497733,2018-07-31,"7",506129,9500,0,0,"X18",7000,154,0,0,0,0,0
+"141","JORR","Utama",NA,0.887383799634147,"July 2018",11662647,2018-07-31,"7",506129,9500,0,0,"X19",9500,155,0,0,0,0,0
+"142","Seksi W2","Seksi","Kembangan//Pesanggrahan//Cengkareng",0.971589006295137,"July 2018",2941046,2018-07-31,"7",506129,9500,0,0,"X20",9500,156,0,0,0,0,0
+"143","Seksi S","Seksi","Kebayoran Lama//Jagakarsa//Cilandak//Pasar Minggu//Pesanggrahan//Pasar Rebo//Ciracas",0.939113033953954,"July 2018",5280995,2018-07-31,"7",506129,9500,0,0,"X21",9500,157,0,0,0,0,0
+"144","Seksi E1","Seksi","Pondok Melati//Jatiasih//Bekasi Selatan",0.807331384607543,"July 2018",3170020,2018-07-31,"7",506129,9500,0,0,"X22",9500,158,0,0,0,0,0
+"145","Seksi E2","Seksi","Bekasi Barat//Cakung//Cilincing",0.877173204754621,"July 2018",1124762,2018-07-31,"7",506129,9500,0,0,"X23",9500,159,0,0,0,0,0
+"146","Seksi E3","Seksi","Cakung//Cilincing",0.466393607345187,"July 2018",445374,2018-07-31,"7",506129,9500,0,0,"X24",9500,160,0,0,0,0,0
+"147","Ulujami – Pondok Aren","Seksi","Serpong//Ciputat//Pondok Aren",0.989144647819015,"July 2018",3981445,2018-07-31,"7",506129,9500,0,0,"X25",6500,161,0,0,0,0,0
+"148","Jagorawi","Utama","Kramat Jati// Cipayung// Ciracas//Makasar//Cimanggis",0.924708312168135,"August 2018",12331982,2018-08-31,"8",583760,9500,0,0,"X1",6500,162,0,0,0,1,0
+"149","Ramp TMII & Dukuh","Seksi","Kramat Jati// Makasar",0.974476055438646,"August 2018",2472239,2018-08-31,"8",583760,9500,0,0,"X4",6500,163,0,0,0,1,0
+"150","Ramp Cibubur","Seksi","Cipayung//Ciracas//Cimanggis",0.937565580954413,"August 2018",1992913,2018-08-31,"8",583760,9500,0,0,"X5",6500,164,0,0,0,1,0
+"151","Cawang - Cimanggis","Seksi","Cimanggis",0.907163271626811,"August 2018",7866830,2018-08-31,"8",583760,9500,0,0,"X6",6500,165,0,0,0,1,0
+"152","Japek","Utama","Bekasi Barat//Pondok Gede//Bekasi Timur//Tambun Selatan//Cibitung//Bekasi Selatan",0.802570510097598,"August 2018",14935540,2018-08-31,"8",583760,9500,0,0,"X7",3000,166,0,0,0,1,0
+"153","Ramp PGT & PGB","Seksi","Pondok Gede",0.9792717617727,"August 2018",1724505,2018-08-31,"8",583760,9500,0,0,"X10",1500,167,0,0,0,1,0
+"154","Ramp Cawang-Cikarang","Seksi","Bekasi Barat//Bekasi Timur//Tambun Selatan//Cibitung//Bekasi Selatan",0.787840520191094,"August 2018",8803626,2018-08-31,"8",583760,9500,0,0,"X11",4500,168,0,0,0,1,0
+"155","Jakarta-Tangerang","Utama","Tanjung Duren//Kebon Jeruk//Kembangan//Karang Tengah//",0.880693561024901,"August 2018",11831340,2018-08-31,"8",583760,9500,0,0,"X13",7000,170,0,0,0,1,0
+"156","Jakarta-Tangerang","Seksi","Tanjung Duren//Kebon Jeruk//Kembangan//Karang Tengah//",0.880693561024901,"August 2018",11831340,2018-08-31,"8",583760,9500,0,0,"X13",7000,172,0,0,0,1,0
+"157","Lingkar Dalam & Sedyatmo","NON",NA,0.933530437720865,"August 2018",24266065,2018-08-31,"8",583760,9500,0,0,"X14",9500,173,0,0,0,1,0
+"158","Dalam Kota Jakarta","Utama",NA,0.936019156888263,"August 2018",17075596,2018-08-31,"8",583760,9500,0,0,"X15",9500,174,0,0,0,1,0
+"159","Cawang-Tomang-Pluit","Seksi","Jatinegara//Setiabudi//Pancoran//Kebayoran Baru//Tanah Abang//Palmerah//Grogol Petamburan//Tambora//Penjaringan",0.957217930477783,"August 2018",9565104,2018-08-31,"8",583760,9500,0,0,"X16",9500,175,0,0,0,1,0
+"160","Cawang-Tj.Priok-Pluit","Seksi","Jatinegara//Pulo Gadung//Cempaka Putih//Pademangan//Penjaringan",0.908716760650925,"August 2018",7510592,2018-08-31,"8",583760,9500,0,0,"X17",9500,176,0,0,0,1,0
+"161","Sedyatmo","Utama","Kalideres//Penjaringan",0.927166437543253,"August 2018",7190369,2018-08-31,"8",583760,9500,0,0,"X18",7000,177,0,0,0,1,0
+"162","JORR","Utama",NA,0.887383799634147,"August 2018",11481084,2018-08-31,"8",583760,9500,0,0,"X19",9500,178,0,0,0,1,0
+"163","Seksi W2","Seksi","Kembangan//Pesanggrahan//Cengkareng",0.971589006295137,"August 2018",2921967,2018-08-31,"8",583760,9500,0,0,"X20",9500,179,0,0,0,1,0
+"164","Seksi S","Seksi","Kebayoran Lama//Jagakarsa//Cilandak//Pasar Minggu//Pesanggrahan//Pasar Rebo//Ciracas",0.939113033953954,"August 2018",5104941,2018-08-31,"8",583760,9500,0,0,"X21",9500,180,0,0,0,1,0
+"165","Seksi E1","Seksi","Pondok Melati//Jatiasih//Bekasi Selatan",0.807331384607543,"August 2018",3021190,2018-08-31,"8",583760,9500,0,0,"X22",9500,181,0,0,0,1,0
+"166","Seksi E2","Seksi","Bekasi Barat//Cakung//Cilincing",0.877173204754621,"August 2018",1155524,2018-08-31,"8",583760,9500,0,0,"X23",9500,182,0,0,0,1,0
+"167","Seksi E3","Seksi","Cakung//Cilincing",0.466393607345187,"August 2018",424583,2018-08-31,"8",583760,9500,0,0,"X24",9500,183,0,0,0,1,0
+"168","Ulujami – Pondok Aren","Seksi","Serpong//Ciputat//Pondok Aren",0.989144647819015,"August 2018",3957820,2018-08-31,"8",583760,9500,0,0,"X25",6500,184,0,0,0,1,0
+"169","Jagorawi","Utama","Kramat Jati// Cipayung// Ciracas//Makasar//Cimanggis",0.924708312168135,"September 2018",12302539,2018-09-30,"9",652052,9500,0,1,"X1",6500,185,0,0,0,0,0
+"170","Ramp TMII & Dukuh","Seksi","Kramat Jati// Makasar",0.974476055438646,"September 2018",2488856,2018-09-30,"9",652052,9500,0,1,"X4",6500,186,0,0,0,0,0
+"171","Ramp Cibubur","Seksi","Cipayung//Ciracas//Cimanggis",0.937565580954413,"September 2018",1965587,2018-09-30,"9",652052,9500,0,1,"X5",6500,187,0,0,0,0,0
+"172","Cawang - Cimanggis","Seksi","Cimanggis",0.907163271626811,"September 2018",7848096,2018-09-30,"9",652052,9500,0,1,"X6",6500,188,0,0,0,0,0
+"173","Japek","Utama","Bekasi Barat//Pondok Gede//Bekasi Timur//Tambun Selatan//Cibitung//Bekasi Selatan",0.802570510097598,"September 2018",14452943,2018-09-30,"9",652052,9500,0,1,"X7",3000,189,0,0,0,0,0
+"174","Ramp PGT & PGB","Seksi","Pondok Gede",0.9792717617727,"September 2018",1727971,2018-09-30,"9",652052,9500,0,1,"X10",1500,190,0,0,0,0,0
+"175","Ramp Cawang-Cikarang","Seksi","Bekasi Barat//Bekasi Timur//Tambun Selatan//Cibitung//Bekasi Selatan",0.787840520191094,"September 2018",8568659,2018-09-30,"9",652052,9500,0,1,"X11",4500,191,0,0,0,0,0
+"176","Jakarta-Tangerang","Utama","Tanjung Duren//Kebon Jeruk//Kembangan//Karang Tengah//",0.880693561024901,"September 2018",11724419,2018-09-30,"9",652052,9500,0,1,"X13",7000,193,0,0,0,0,0
+"177","Jakarta-Tangerang","Seksi","Tanjung Duren//Kebon Jeruk//Kembangan//Karang Tengah//",0.880693561024901,"September 2018",11724419,2018-09-30,"9",652052,9500,0,1,"X13",7000,195,0,0,0,0,0
+"178","Lingkar Dalam & Sedyatmo","NON",NA,0.933530437720865,"September 2018",24477972,2018-09-30,"9",652052,9500,0,1,"X14",9500,196,0,0,0,0,0
+"179","Dalam Kota Jakarta","Utama",NA,0.936019156888263,"September 2018",17373634,2018-09-30,"9",652052,9500,0,1,"X15",9500,197,0,0,0,0,0
+"180","Cawang-Tomang-Pluit","Seksi","Jatinegara//Setiabudi//Pancoran//Kebayoran Baru//Tanah Abang//Palmerah//Grogol Petamburan//Tambora//Penjaringan",0.957217930477783,"September 2018",9740758,2018-09-30,"9",652052,9500,0,1,"X16",9500,198,0,0,0,0,0
+"181","Cawang-Tj.Priok-Pluit","Seksi","Jatinegara//Pulo Gadung//Cempaka Putih//Pademangan//Penjaringan",0.908716760650925,"September 2018",7632876,2018-09-30,"9",652052,9500,0,1,"X17",9500,199,0,0,0,0,0
+"182","Sedyatmo","Utama","Kalideres//Penjaringan",0.927166437543253,"September 2018",7104338,2018-09-30,"9",652052,9500,0,1,"X18",7000,200,0,0,0,0,0
+"183","JORR","Utama",NA,0.887383799634147,"September 2018",10297895,2018-09-30,"9",652052,9500,0,1,"X19",15000,201,1,0,0,0,1
+"184","Seksi W2","Seksi","Kembangan//Pesanggrahan//Cengkareng",0.971589006295137,"September 2018",2610206,2018-09-30,"9",652052,9500,0,1,"X20",15000,202,1,0,0,0,0
+"185","Seksi S","Seksi","Kebayoran Lama//Jagakarsa//Cilandak//Pasar Minggu//Pesanggrahan//Pasar Rebo//Ciracas",0.939113033953954,"September 2018",4681860,2018-09-30,"9",652052,9500,0,1,"X21",15000,203,1,0,0,0,1
+"186","Seksi E1","Seksi","Pondok Melati//Jatiasih//Bekasi Selatan",0.807331384607543,"September 2018",2708138,2018-09-30,"9",652052,9500,0,1,"X22",15000,204,1,0,0,0,0
+"187","Seksi E2","Seksi","Bekasi Barat//Cakung//Cilincing",0.877173204754621,"September 2018",1056926,2018-09-30,"9",652052,9500,0,1,"X23",15000,205,1,0,0,0,0
+"188","Seksi E3","Seksi","Cakung//Cilincing",0.466393607345187,"September 2018",383951,2018-09-30,"9",652052,9500,0,1,"X24",15000,206,1,0,0,0,0
+"189","Ulujami – Pondok Aren","Seksi","Serpong//Ciputat//Pondok Aren",0.989144647819015,"September 2018",3538674,2018-09-30,"9",652052,9500,0,1,"X25",6500,207,1,0,0,0,0
+"190","Jagorawi","Utama","Kramat Jati// Cipayung// Ciracas//Makasar//Cimanggis",0.924708312168135,"October 2018",12654432,2018-10-31,"10",732857,9500,0,1,"X1",6500,208,0,0,0,0,0
+"191","Ramp TMII & Dukuh","Seksi","Kramat Jati// Makasar",0.974476055438646,"October 2018",2566106,2018-10-31,"10",732857,9500,0,1,"X4",6500,209,0,0,0,0,0
+"192","Ramp Cibubur","Seksi","Cipayung//Ciracas//Cimanggis",0.937565580954413,"October 2018",2049658,2018-10-31,"10",732857,9500,0,1,"X5",6500,210,0,0,0,0,0
+"193","Cawang - Cimanggis","Seksi","Cimanggis",0.907163271626811,"October 2018",8038668,2018-10-31,"10",732857,9500,0,1,"X6",6500,211,0,0,0,0,0
+"194","Japek","Utama","Bekasi Barat//Pondok Gede//Bekasi Timur//Tambun Selatan//Cibitung//Bekasi Selatan",0.802570510097598,"October 2018",14872792,2018-10-31,"10",732857,9500,0,1,"X7",3000,212,0,0,0,0,0
+"195","Ramp PGT & PGB","Seksi","Pondok Gede",0.9792717617727,"October 2018",1799997,2018-10-31,"10",732857,9500,0,1,"X10",1500,213,0,0,0,0,0
+"196","Ramp Cawang-Cikarang","Seksi","Bekasi Barat//Bekasi Timur//Tambun Selatan//Cibitung//Bekasi Selatan",0.787840520191094,"October 2018",8725348,2018-10-31,"10",732857,9500,0,1,"X11",4500,214,0,0,0,0,0
+"197","Jakarta-Tangerang","Utama","Tanjung Duren//Kebon Jeruk//Kembangan//Karang Tengah//",0.880693561024901,"October 2018",12077390,2018-10-31,"10",732857,9500,0,1,"X13",7000,216,0,0,0,0,0
+"198","Jakarta-Tangerang","Seksi","Tanjung Duren//Kebon Jeruk//Kembangan//Karang Tengah//",0.880693561024901,"October 2018",12077390,2018-10-31,"10",732857,9500,0,1,"X13",7000,218,0,0,0,0,0
+"199","Lingkar Dalam & Sedyatmo","NON",NA,0.933530437720865,"October 2018",25593694,2018-10-31,"10",732857,9500,0,1,"X14",9500,219,0,0,0,0,0
+"200","Dalam Kota Jakarta","Utama",NA,0.936019156888263,"October 2018",18200861,2018-10-31,"10",732857,9500,0,1,"X15",9500,220,0,0,0,0,0
+"201","Cawang-Tomang-Pluit","Seksi","Jatinegara//Setiabudi//Pancoran//Kebayoran Baru//Tanah Abang//Palmerah//Grogol Petamburan//Tambora//Penjaringan",0.957217930477783,"October 2018",10124569,2018-10-31,"10",732857,9500,0,1,"X16",9500,221,0,0,0,0,0
+"202","Cawang-Tj.Priok-Pluit","Seksi","Jatinegara//Pulo Gadung//Cempaka Putih//Pademangan//Penjaringan",0.908716760650925,"October 2018",8076292,2018-10-31,"10",732857,9500,0,1,"X17",9500,222,0,0,0,0,0
+"203","Sedyatmo","Utama","Kalideres//Penjaringan",0.927166437543253,"October 2018",7392833,2018-10-31,"10",732857,9500,0,1,"X18",7000,223,0,0,0,0,0
+"204","JORR","Utama",NA,0.887383799634147,"October 2018",7204078,2018-10-31,"10",732857,9500,0,1,"X19",15000,224,1,0,0,0,1
+"205","Seksi W2","Seksi","Kembangan//Pesanggrahan//Cengkareng",0.971589006295137,"October 2018",2865143,2018-10-31,"10",732857,9500,0,1,"X20",15000,225,1,0,0,0,0
+"206","Seksi S","Seksi","Kebayoran Lama//Jagakarsa//Cilandak//Pasar Minggu//Pesanggrahan//Pasar Rebo//Ciracas",0.939113033953954,"October 2018",5110125,2018-10-31,"10",732857,9500,0,1,"X21",15000,226,1,0,0,0,1
+"207","Seksi E1","Seksi","Pondok Melati//Jatiasih//Bekasi Selatan",0.807331384607543,"October 2018",2091533,2018-10-31,"10",732857,9500,0,1,"X22",15000,227,1,0,0,0,0
+"208","Seksi E2","Seksi","Bekasi Barat//Cakung//Cilincing",0.877173204754621,"October 2018",1083387,2018-10-31,"10",732857,9500,0,1,"X23",15000,228,1,0,0,0,0
+"209","Seksi E3","Seksi","Cakung//Cilincing",0.466393607345187,"October 2018",97852,2018-10-31,"10",732857,9500,0,1,"X24",15000,229,1,0,0,0,0
+"210","Ulujami – Pondok Aren","Seksi","Serpong//Ciputat//Pondok Aren",0.989144647819015,"October 2018",242366,2018-10-31,"10",732857,9500,0,1,"X25",6500,230,1,0,0,0,0
+"211","Jagorawi","Utama","Kramat Jati// Cipayung// Ciracas//Makasar//Cimanggis",0.924708312168135,"November 2018",12392817,2018-11-30,"11",807911,9500,0,1,"X1",6500,231,0,0,0,0,0
+"212","Ramp TMII & Dukuh","Seksi","Kramat Jati// Makasar",0.974476055438646,"November 2018",2511204,2018-11-30,"11",807911,9500,0,1,"X4",6500,232,0,0,0,0,0
+"213","Ramp Cibubur","Seksi","Cipayung//Ciracas//Cimanggis",0.937565580954413,"November 2018",1985251,2018-11-30,"11",807911,9500,0,1,"X5",6500,233,0,0,0,0,0
+"214","Cawang - Cimanggis","Seksi","Cimanggis",0.907163271626811,"November 2018",7896362,2018-11-30,"11",807911,9500,0,1,"X6",6500,234,0,0,0,0,0
+"215","Japek","Utama","Bekasi Barat//Pondok Gede//Bekasi Timur//Tambun Selatan//Cibitung//Bekasi Selatan",0.802570510097598,"November 2018",13980423,2018-11-30,"11",807911,9500,0,1,"X7",3000,235,0,0,0,0,0
+"216","Ramp PGT & PGB","Seksi","Pondok Gede",0.9792717617727,"November 2018",1736200,2018-11-30,"11",807911,9500,0,1,"X10",1500,236,0,0,0,0,0
+"217","Ramp Cawang-Cikarang","Seksi","Bekasi Barat//Bekasi Timur//Tambun Selatan//Cibitung//Bekasi Selatan",0.787840520191094,"November 2018",8145995,2018-11-30,"11",807911,9500,0,1,"X11",4500,237,0,0,0,0,0
+"218","Jakarta-Tangerang","Utama","Tanjung Duren//Kebon Jeruk//Kembangan//Karang Tengah//",0.880693561024901,"November 2018",11613686,2018-11-30,"11",807911,9500,0,1,"X13",7000,239,0,0,0,0,0
+"219","Jakarta-Tangerang","Seksi","Tanjung Duren//Kebon Jeruk//Kembangan//Karang Tengah//",0.880693561024901,"November 2018",11613686,2018-11-30,"11",807911,9500,0,1,"X13",7000,241,0,0,0,0,0
+"220","Lingkar Dalam & Sedyatmo","NON",NA,0.933530437720865,"November 2018",24853058,2018-11-30,"11",807911,9500,0,1,"X14",9500,242,0,0,0,0,0
+"221","Dalam Kota Jakarta","Utama",NA,0.936019156888263,"November 2018",17689458,2018-11-30,"11",807911,9500,0,1,"X15",9500,243,0,0,0,0,0
+"222","Cawang-Tomang-Pluit","Seksi","Jatinegara//Setiabudi//Pancoran//Kebayoran Baru//Tanah Abang//Palmerah//Grogol Petamburan//Tambora//Penjaringan",0.957217930477783,"November 2018",9808390,2018-11-30,"11",807911,9500,0,1,"X16",9500,244,0,0,0,0,0
+"223","Cawang-Tj.Priok-Pluit","Seksi","Jatinegara//Pulo Gadung//Cempaka Putih//Pademangan//Penjaringan",0.908716760650925,"November 2018",7881068,2018-11-30,"11",807911,9500,0,1,"X17",9500,245,0,0,0,0,0
+"224","Sedyatmo","Utama","Kalideres//Penjaringan",0.927166437543253,"November 2018",7163600,2018-11-30,"11",807911,9500,0,1,"X18",7000,246,0,0,0,0,0
+"225","JORR","Utama",NA,0.887383799634147,"November 2018",6773939,2018-11-30,"11",807911,9500,0,1,"X19",15000,247,1,0,0,0,1
+"226","Seksi W2","Seksi","Kembangan//Pesanggrahan//Cengkareng",0.971589006295137,"November 2018",2802024,2018-11-30,"11",807911,9500,0,1,"X20",15000,248,1,0,0,0,0
+"227","Seksi S","Seksi","Kebayoran Lama//Jagakarsa//Cilandak//Pasar Minggu//Pesanggrahan//Pasar Rebo//Ciracas",0.939113033953954,"November 2018",4950478,2018-11-30,"11",807911,9500,0,1,"X21",15000,249,1,0,0,0,1
+"228","Seksi E1","Seksi","Pondok Melati//Jatiasih//Bekasi Selatan",0.807331384607543,"November 2018",2637649,2018-11-30,"11",807911,9500,0,1,"X22",15000,250,1,0,0,0,0
+"229","Seksi E2","Seksi","Bekasi Barat//Cakung//Cilincing",0.877173204754621,"November 2018",1011761,2018-11-30,"11",807911,9500,0,1,"X23",15000,251,1,0,0,0,0
+"230","Seksi E3","Seksi","Cakung//Cilincing",0.466393607345187,"November 2018",80050,2018-11-30,"11",807911,9500,0,1,"X24",15000,252,1,0,0,0,0
+"231","Ulujami – Pondok Aren","Seksi","Serpong//Ciputat//Pondok Aren",0.989144647819015,"November 2018",242555,2018-11-30,"11",807911,9500,0,1,"X25",6500,253,1,0,0,0,0
+"232","Jagorawi","Utama","Kramat Jati// Cipayung// Ciracas//Makasar//Cimanggis",0.924708312168135,"December 2018",12988952,2018-12-31,"12",874677,9500,0,1,"X1",6500,254,0,1,0,0,0
+"233","Ramp TMII & Dukuh","Seksi","Kramat Jati// Makasar",0.974476055438646,"December 2018",2501573,2018-12-31,"12",874677,9500,0,1,"X4",6500,255,0,1,0,0,0
+"234","Ramp Cibubur","Seksi","Cipayung//Ciracas//Cimanggis",0.937565580954413,"December 2018",2049753,2018-12-31,"12",874677,9500,0,1,"X5",6500,256,0,1,0,0,0
+"235","Cawang - Cimanggis","Seksi","Cimanggis",0.907163271626811,"December 2018",8437626,2018-12-31,"12",874677,9500,0,1,"X6",6500,257,0,1,0,0,0
+"236","Japek","Utama","Bekasi Barat//Pondok Gede//Bekasi Timur//Tambun Selatan//Cibitung//Bekasi Selatan",0.802570510097598,"December 2018",14994570,2018-12-31,"12",874677,9500,0,1,"X7",3000,258,0,1,0,0,0
+"237","Ramp PGT & PGB","Seksi","Pondok Gede",0.9792717617727,"December 2018",1777450,2018-12-31,"12",874677,9500,0,1,"X10",1500,259,0,1,0,0,0
+"238","Ramp Cawang-Cikarang","Seksi","Bekasi Barat//Bekasi Timur//Tambun Selatan//Cibitung//Bekasi Selatan",0.787840520191094,"December 2018",8846914,2018-12-31,"12",874677,9500,0,1,"X11",4500,260,0,1,0,0,0
+"239","Jakarta-Tangerang","Utama","Tanjung Duren//Kebon Jeruk//Kembangan//Karang Tengah//",0.880693561024901,"December 2018",11621419,2018-12-31,"12",874677,9500,0,1,"X13",7000,262,0,1,0,0,0
+"240","Jakarta-Tangerang","Seksi","Tanjung Duren//Kebon Jeruk//Kembangan//Karang Tengah//",0.880693561024901,"December 2018",11621419,2018-12-31,"12",874677,9500,0,1,"X13",7000,264,0,1,0,0,0
+"241","Lingkar Dalam & Sedyatmo","NON",NA,0.933530437720865,"December 2018",24761480,2018-12-31,"12",874677,9500,0,1,"X14",9500,265,0,1,0,0,0
+"242","Dalam Kota Jakarta","Utama",NA,0.936019156888263,"December 2018",17775536,2018-12-31,"12",874677,9500,0,1,"X15",9500,266,0,1,0,0,0
+"243","Cawang-Tomang-Pluit","Seksi","Jatinegara//Setiabudi//Pancoran//Kebayoran Baru//Tanah Abang//Palmerah//Grogol Petamburan//Tambora//Penjaringan",0.957217930477783,"December 2018",10008350,2018-12-31,"12",874677,9500,0,1,"X16",9500,267,0,1,0,0,0
+"244","Cawang-Tj.Priok-Pluit","Seksi","Jatinegara//Pulo Gadung//Cempaka Putih//Pademangan//Penjaringan",0.908716760650925,"December 2018",7767186,2018-12-31,"12",874677,9500,0,1,"X17",9500,268,0,1,0,0,0
+"245","Sedyatmo","Utama","Kalideres//Penjaringan",0.927166437543253,"December 2018",8985944,2018-12-31,"12",874677,9500,0,1,"X18",7000,269,0,1,0,0,0
+"246","JORR","Utama",NA,0.887383799634147,"December 2018",7024586,2018-12-31,"12",874677,9500,0,1,"X19",15000,270,1,1,0,0,1
+"247","Seksi W2","Seksi","Kembangan//Pesanggrahan//Cengkareng",0.971589006295137,"December 2018",2784002,2018-12-31,"12",874677,9500,0,1,"X20",15000,271,1,1,0,0,0
+"248","Seksi S","Seksi","Kebayoran Lama//Jagakarsa//Cilandak//Pasar Minggu//Pesanggrahan//Pasar Rebo//Ciracas",0.939113033953954,"December 2018",5077674,2018-12-31,"12",874677,9500,0,1,"X21",15000,272,1,1,0,0,1
+"249","Seksi E1","Seksi","Pondok Melati//Jatiasih//Bekasi Selatan",0.807331384607543,"December 2018",2858584,2018-12-31,"12",874677,9500,0,1,"X22",15000,273,1,1,0,0,0
+"250","Seksi E2","Seksi","Bekasi Barat//Cakung//Cilincing",0.877173204754621,"December 2018",1073615,2018-12-31,"12",874677,9500,0,1,"X23",15000,274,1,1,0,0,0
+"251","Seksi E3","Seksi","Cakung//Cilincing",0.466393607345187,"December 2018",76127,2018-12-31,"12",874677,9500,0,1,"X24",15000,275,1,1,0,0,0
+"252","Ulujami – Pondok Aren","Seksi","Serpong//Ciputat//Pondok Aren",0.989144647819015,"December 2018",232258,2018-12-31,"12",874677,9500,0,1,"X25",6500,276,1,1,0,0,0
+"253","Jagorawi","Utama","Kramat Jati// Cipayung// Ciracas//Makasar//Cimanggis",0.924708312168135,"January 2019",12590995,2019-01-31,"13",931766,10200,0,1,"X1",6500,277,0,0,0,0,0
+"254","Ramp TMII & Dukuh","Seksi","Kramat Jati// Makasar",0.974476055438646,"January 2019",2476073,2019-01-31,"13",931766,10200,0,1,"X4",6500,278,0,0,0,0,0
+"255","Ramp Cibubur","Seksi","Cipayung//Ciracas//Cimanggis",0.937565580954413,"January 2019",2022035,2019-01-31,"13",931766,10200,0,1,"X5",6500,279,0,0,0,0,0
+"256","Cawang - Cimanggis","Seksi","Cimanggis",0.907163271626811,"January 2019",8092887,2019-01-31,"13",931766,10200,0,1,"X6",6500,280,0,0,0,0,0
+"257","Japek","Utama","Bekasi Barat//Pondok Gede//Bekasi Timur//Tambun Selatan//Cibitung//Bekasi Selatan",0.802570510097598,"January 2019",14760651,2019-01-31,"13",931766,10200,0,1,"X7",3000,281,0,0,0,0,0
+"258","Ramp PGT & PGB","Seksi","Pondok Gede",0.9792717617727,"January 2019",1785921,2019-01-31,"13",931766,10200,0,1,"X10",1500,282,0,0,0,0,0
+"259","Ramp Cawang-Cikarang","Seksi","Bekasi Barat//Bekasi Timur//Tambun Selatan//Cibitung//Bekasi Selatan",0.787840520191094,"January 2019",8587931,2019-01-31,"13",931766,10200,0,1,"X11",4500,283,0,0,0,0,0
+"260","Jakarta-Tangerang","Utama","Tanjung Duren//Kebon Jeruk//Kembangan//Karang Tengah//",0.880693561024901,"January 2019",11648977,2019-01-31,"13",931766,10200,0,1,"X13",7000,285,0,0,0,0,0
+"261","Jakarta-Tangerang","Seksi","Tanjung Duren//Kebon Jeruk//Kembangan//Karang Tengah//",0.880693561024901,"January 2019",11648977,2019-01-31,"13",931766,10200,0,1,"X13",7000,287,0,0,0,0,0
+"262","Lingkar Dalam & Sedyatmo","NON",NA,0.933530437720865,"January 2019",24261035,2019-01-31,"13",931766,10200,0,1,"X14",9500,288,0,0,0,0,0
+"263","Dalam Kota Jakarta","Utama",NA,0.936019156888263,"January 2019",17471042,2019-01-31,"13",931766,10200,0,1,"X15",9500,289,0,0,0,0,0
+"264","Cawang-Tomang-Pluit","Seksi","Jatinegara//Setiabudi//Pancoran//Kebayoran Baru//Tanah Abang//Palmerah//Grogol Petamburan//Tambora//Penjaringan",0.957217930477783,"January 2019",9781357,2019-01-31,"13",931766,10200,0,1,"X16",9500,290,0,0,0,0,0
+"265","Cawang-Tj.Priok-Pluit","Seksi","Jatinegara//Pulo Gadung//Cempaka Putih//Pademangan//Penjaringan",0.908716760650925,"January 2019",7689685,2019-01-31,"13",931766,10200,0,1,"X17",9500,291,0,0,0,0,0
+"266","Sedyatmo","Utama","Kalideres//Penjaringan",0.927166437543253,"January 2019",6789993,2019-01-31,"13",931766,10200,0,1,"X18",7000,292,0,0,0,0,0
+"267","JORR","Utama",NA,0.887383799634147,"January 2019",6954877,2019-01-31,"13",931766,10200,0,1,"X19",15000,293,1,0,0,0,1
+"268","Seksi W2","Seksi","Kembangan//Pesanggrahan//Cengkareng",0.971589006295137,"January 2019",2770459,2019-01-31,"13",931766,10200,0,1,"X20",15000,294,1,0,0,0,0
+"269","Seksi S","Seksi","Kebayoran Lama//Jagakarsa//Cilandak//Pasar Minggu//Pesanggrahan//Pasar Rebo//Ciracas",0.939113033953954,"January 2019",4939342,2019-01-31,"13",931766,10200,0,1,"X21",15000,295,1,0,0,0,1
+"270","Seksi E1","Seksi","Pondok Melati//Jatiasih//Bekasi Selatan",0.807331384607543,"January 2019",2805154,2019-01-31,"13",931766,10200,0,1,"X22",15000,296,1,0,0,0,0
+"271","Seksi E2","Seksi","Bekasi Barat//Cakung//Cilincing",0.877173204754621,"January 2019",1052781,2019-01-31,"13",931766,10200,0,1,"X23",15000,297,1,0,0,0,0
+"272","Seksi E3","Seksi","Cakung//Cilincing",0.466393607345187,"January 2019",82000,2019-01-31,"13",931766,10200,0,1,"X24",15000,298,1,0,0,0,0
+"273","Ulujami – Pondok Aren","Seksi","Serpong//Ciputat//Pondok Aren",0.989144647819015,"January 2019",245000,2019-01-31,"13",931766,10200,0,1,"X25",6500,299,1,0,0,0,0
+"274","Jagorawi","Utama","Kramat Jati// Cipayung// Ciracas//Makasar//Cimanggis",0.924708312168135,"February 2019",NA,2019-02-28,"14",994058,9850,0,1,"X1",6500,300,0,0,0,0,0
+"275","Ramp TMII & Dukuh","Seksi","Kramat Jati// Makasar",0.974476055438646,"February 2019",2271301,2019-02-28,"14",994058,9850,0,1,"X4",6500,301,0,0,0,0,0
+"276","Ramp Cibubur","Seksi","Cipayung//Ciracas//Cimanggis",0.937565580954413,"February 2019",1816710,2019-02-28,"14",994058,9850,0,1,"X5",6500,302,0,0,0,0,0
+"277","Cawang - Cimanggis","Seksi","Cimanggis",0.907163271626811,"February 2019",7360466,2019-02-28,"14",994058,9850,0,1,"X6",6500,303,0,0,0,0,0
+"278","Japek","Utama","Bekasi Barat//Pondok Gede//Bekasi Timur//Tambun Selatan//Cibitung//Bekasi Selatan",0.802570510097598,"February 2019",13185393,2019-02-28,"14",994058,9850,0,1,"X7",3000,304,0,0,0,0,0
+"279","Ramp PGT & PGB","Seksi","Pondok Gede",0.9792717617727,"February 2019",1639142,2019-02-28,"14",994058,9850,0,1,"X10",1500,305,0,0,0,0,0
+"280","Ramp Cawang-Cikarang","Seksi","Bekasi Barat//Bekasi Timur//Tambun Selatan//Cibitung//Bekasi Selatan",0.787840520191094,"February 2019",7638435,2019-02-28,"14",994058,9850,0,1,"X11",4500,306,0,0,0,0,0
+"281","Jakarta-Tangerang","Utama","Tanjung Duren//Kebon Jeruk//Kembangan//Karang Tengah//",0.880693561024901,"February 2019",10477961,2019-02-28,"14",994058,9850,0,1,"X13",7000,308,0,0,0,0,0
+"282","Jakarta-Tangerang","Seksi","Tanjung Duren//Kebon Jeruk//Kembangan//Karang Tengah//",0.880693561024901,"February 2019",10477961,2019-02-28,"14",994058,9850,0,1,"X13",7000,310,0,0,0,0,0
+"283","Lingkar Dalam & Sedyatmo","NON",NA,0.933530437720865,"February 2019",22288961,2019-02-28,"14",994058,9850,0,1,"X14",9500,311,0,0,0,0,0
+"284","Dalam Kota Jakarta","Utama",NA,0.936019156888263,"February 2019",16081936,2019-02-28,"14",994058,9850,0,1,"X15",9500,312,0,0,0,0,0
+"285","Cawang-Tomang-Pluit","Seksi","Jatinegara//Setiabudi//Pancoran//Kebayoran Baru//Tanah Abang//Palmerah//Grogol Petamburan//Tambora//Penjaringan",0.957217930477783,"February 2019",8978665,2019-02-28,"14",994058,9850,0,1,"X16",9500,313,0,0,0,0,0
+"286","Cawang-Tj.Priok-Pluit","Seksi","Jatinegara//Pulo Gadung//Cempaka Putih//Pademangan//Penjaringan",0.908716760650925,"February 2019",7103271,2019-02-28,"14",994058,9850,0,1,"X17",9500,314,0,0,0,0,0
+"287","Sedyatmo","Utama","Kalideres//Penjaringan",0.927166437543253,"February 2019",6207025,2019-02-28,"14",994058,9850,0,1,"X18",7000,315,0,0,0,0,0
+"288","JORR","Utama",NA,0.887383799634147,"February 2019",6227370,2019-02-28,"14",994058,9850,0,1,"X19",15000,316,1,0,0,0,1
+"289","Seksi W2","Seksi","Kembangan//Pesanggrahan//Cengkareng",0.971589006295137,"February 2019",2551352,2019-02-28,"14",994058,9850,0,1,"X20",15000,317,1,0,0,0,0
+"290","Seksi S","Seksi","Kebayoran Lama//Jagakarsa//Cilandak//Pasar Minggu//Pesanggrahan//Pasar Rebo//Ciracas",0.939113033953954,"February 2019",4486408,2019-02-28,"14",994058,9850,0,1,"X21",15000,318,1,0,0,0,1
+"291","Seksi E1","Seksi","Pondok Melati//Jatiasih//Bekasi Selatan",0.807331384607543,"February 2019",2446267,2019-02-28,"14",994058,9850,0,1,"X22",15000,319,1,0,0,0,0
+"292","Seksi E2","Seksi","Bekasi Barat//Cakung//Cilincing",0.877173204754621,"February 2019",926000,2019-02-28,"14",994058,9850,0,1,"X23",15000,320,1,0,0,0,0
+"293","Seksi E3","Seksi","Cakung//Cilincing",0.466393607345187,"February 2019",77000,2019-02-28,"14",994058,9850,0,1,"X24",15000,321,1,0,0,0,0
+"294","Ulujami – Pondok Aren","Seksi","Serpong//Ciputat//Pondok Aren",0.989144647819015,"February 2019",227000,2019-02-28,"14",994058,9850,0,1,"X25",6500,322,1,0,0,0,0
+"295","Jagorawi","Utama","Kramat Jati// Cipayung// Ciracas//Makasar//Cimanggis",0.924708312168135,"March 2019",12813444,2019-03-31,"15",1066987,9850,0,1,"X1",6500,323,0,0,0,0,0
+"296","Ramp TMII & Dukuh","Seksi","Kramat Jati// Makasar",0.974476055438646,"March 2019",2519499,2019-03-31,"15",1066987,9850,0,1,"X4",6500,324,0,0,0,0,0
+"297","Ramp Cibubur","Seksi","Cipayung//Ciracas//Cimanggis",0.937565580954413,"March 2019",2028500,2019-03-31,"15",1066987,9850,0,1,"X5",6500,325,0,0,0,0,0
+"298","Cawang - Cimanggis","Seksi","Cimanggis",0.907163271626811,"March 2019",8265445,2019-03-31,"15",1066987,9850,0,1,"X6",6500,326,0,0,0,0,0
+"299","Japek","Utama","Bekasi Barat//Pondok Gede//Bekasi Timur//Tambun Selatan//Cibitung//Bekasi Selatan",0.802570510097598,"March 2019",14334465,2019-03-31,"15",1066987,9850,0,1,"X7",3000,327,0,0,0,0,0
+"300","Ramp PGT & PGB","Seksi","Pondok Gede",0.9792717617727,"March 2019",1832642,2019-03-31,"15",1066987,9850,0,1,"X10",1500,328,0,0,0,0,0
+"301","Ramp Cawang-Cikarang","Seksi","Bekasi Barat//Bekasi Timur//Tambun Selatan//Cibitung//Bekasi Selatan",0.787840520191094,"March 2019",8222802,2019-03-31,"15",1066987,9850,0,1,"X11",4500,329,0,0,0,0,0
+"302","Jakarta-Tangerang","Utama","Tanjung Duren//Kebon Jeruk//Kembangan//Karang Tengah//",0.880693561024901,"March 2019",11518822,2019-03-31,"15",1066987,9850,0,1,"X13",7000,331,0,0,0,0,0
+"303","Jakarta-Tangerang","Seksi","Tanjung Duren//Kebon Jeruk//Kembangan//Karang Tengah//",0.880693561024901,"March 2019",11518822,2019-03-31,"15",1066987,9850,0,1,"X13",7000,333,0,0,0,0,0
+"304","Lingkar Dalam & Sedyatmo","NON",NA,0.933530437720865,"March 2019",24777547,2019-03-31,"15",1066987,9850,0,1,"X14",9500,334,0,0,0,0,0
+"305","Dalam Kota Jakarta","Utama",NA,0.936019156888263,"March 2019",17862397,2019-03-31,"15",1066987,9850,0,1,"X15",9500,335,0,0,0,0,0
+"306","Cawang-Tomang-Pluit","Seksi","Jatinegara//Setiabudi//Pancoran//Kebayoran Baru//Tanah Abang//Palmerah//Grogol Petamburan//Tambora//Penjaringan",0.957217930477783,"March 2019",10024457,2019-03-31,"15",1066987,9850,0,1,"X16",9500,336,0,0,0,0,0
+"307","Cawang-Tj.Priok-Pluit","Seksi","Jatinegara//Pulo Gadung//Cempaka Putih//Pademangan//Penjaringan",0.908716760650925,"March 2019",7837940,2019-03-31,"15",1066987,9850,0,1,"X17",9500,337,0,0,0,0,0
+"308","Sedyatmo","Utama","Kalideres//Penjaringan",0.927166437543253,"March 2019",6915150,2019-03-31,"15",1066987,9850,0,1,"X18",7000,338,0,0,0,0,0
+"309","JORR","Utama",NA,0.887383799634147,"March 2019",6951925,2019-03-31,"15",1066987,9850,0,1,"X19",15000,339,1,0,0,0,1
+"310","Seksi W2","Seksi","Kembangan//Pesanggrahan//Cengkareng",0.971589006295137,"March 2019",2846866,2019-03-31,"15",1066987,9850,0,1,"X20",15000,340,1,0,0,0,0
+"311","Seksi S","Seksi","Kebayoran Lama//Jagakarsa//Cilandak//Pasar Minggu//Pesanggrahan//Pasar Rebo//Ciracas",0.939113033953954,"March 2019",5042766,2019-03-31,"15",1066987,9850,0,1,"X21",15000,341,1,0,0,0,1
+"312","Seksi E1","Seksi","Pondok Melati//Jatiasih//Bekasi Selatan",0.807331384607543,"March 2019",2718137,2019-03-31,"15",1066987,9850,0,1,"X22",15000,342,1,0,0,0,0
+"313","Seksi E2","Seksi","Bekasi Barat//Cakung//Cilincing",0.877173204754621,"March 2019",1048232,2019-03-31,"15",1066987,9850,0,1,"X23",15000,343,1,0,0,0,0
+"314","Seksi E3","Seksi","Cakung//Cilincing",0.466393607345187,"March 2019",85000,2019-03-31,"15",1066987,9850,0,1,"X24",15000,344,1,0,0,0,0
+"315","Ulujami – Pondok Aren","Seksi","Serpong//Ciputat//Pondok Aren",0.989144647819015,"March 2019",254000,2019-03-31,"15",1066987,9850,0,1,"X25",6500,345,1,0,0,0,0
+"316","Jagorawi","Utama","Kramat Jati// Cipayung// Ciracas//Makasar//Cimanggis",0.924708312168135,"April 2019",12292020,2019-04-30,"16",1134996,9850,0,1,"X1",6500,346,0,0,0,0,0
+"317","Ramp TMII & Dukuh","Seksi","Kramat Jati// Makasar",0.974476055438646,"April 2019",2400727,2019-04-30,"16",1134996,9850,0,1,"X4",6500,347,0,0,0,0,0
+"318","Ramp Cibubur","Seksi","Cipayung//Ciracas//Cimanggis",0.937565580954413,"April 2019",1862925,2019-04-30,"16",1134996,9850,0,1,"X5",6500,348,0,0,0,0,0
+"319","Cawang - Cimanggis","Seksi","Cimanggis",0.907163271626811,"April 2019",8028368,2019-04-30,"16",1134996,9850,0,1,"X6",6500,349,0,0,0,0,0
+"320","Japek","Utama","Bekasi Barat//Pondok Gede//Bekasi Timur//Tambun Selatan//Cibitung//Bekasi Selatan",0.802570510097598,"April 2019",13657910,2019-04-30,"16",1134996,9850,0,1,"X7",3000,350,0,0,0,0,0
+"321","Ramp PGT & PGB","Seksi","Pondok Gede",0.9792717617727,"April 2019",1753239,2019-04-30,"16",1134996,9850,0,1,"X10",1500,351,0,0,0,0,0
+"322","Ramp Cawang-Cikarang","Seksi","Bekasi Barat//Bekasi Timur//Tambun Selatan//Cibitung//Bekasi Selatan",0.787840520191094,"April 2019",7815916,2019-04-30,"16",1134996,9850,0,1,"X11",4500,352,0,0,0,0,0
+"323","Jakarta-Tangerang","Utama","Tanjung Duren//Kebon Jeruk//Kembangan//Karang Tengah//",0.880693561024901,"April 2019",10844295,2019-04-30,"16",1134996,9850,0,1,"X13",7000,354,0,0,0,0,0
+"324","Jakarta-Tangerang","Seksi","Tanjung Duren//Kebon Jeruk//Kembangan//Karang Tengah//",0.880693561024901,"April 2019",10844295,2019-04-30,"16",1134996,9850,0,1,"X13",7000,356,0,0,0,0,0
+"325","Lingkar Dalam & Sedyatmo","NON",NA,0.933530437720865,"April 2019",23267877,2019-04-30,"16",1134996,9850,0,1,"X14",9500,357,0,0,0,0,0
+"326","Dalam Kota Jakarta","Utama",NA,0.936019156888263,"April 2019",16786744,2019-04-30,"16",1134996,9850,0,1,"X15",9500,358,0,0,0,0,0
+"327","Cawang-Tomang-Pluit","Seksi","Jatinegara//Setiabudi//Pancoran//Kebayoran Baru//Tanah Abang//Palmerah//Grogol Petamburan//Tambora//Penjaringan",0.957217930477783,"April 2019",9443021,2019-04-30,"16",1134996,9850,0,1,"X16",9500,359,0,0,0,0,0
+"328","Cawang-Tj.Priok-Pluit","Seksi","Jatinegara//Pulo Gadung//Cempaka Putih//Pademangan//Penjaringan",0.908716760650925,"April 2019",7374723,2019-04-30,"16",1134996,9850,0,1,"X17",9500,360,0,0,0,0,0
+"329","Sedyatmo","Utama","Kalideres//Penjaringan",0.927166437543253,"April 2019",6481133,2019-04-30,"16",1134996,9850,0,1,"X18",7000,361,0,0,0,0,0
+"330","JORR","Utama",NA,0.887383799634147,"April 2019",6479937,2019-04-30,"16",1134996,9850,0,1,"X19",15000,362,1,0,0,0,1
+"331","Seksi W2","Seksi","Kembangan//Pesanggrahan//Cengkareng",0.971589006295137,"April 2019",2671783,2019-04-30,"16",1134996,9850,0,1,"X20",15000,363,1,0,0,0,0
+"332","Seksi S","Seksi","Kebayoran Lama//Jagakarsa//Cilandak//Pasar Minggu//Pesanggrahan//Pasar Rebo//Ciracas",0.939113033953954,"April 2019",4761565,2019-04-30,"16",1134996,9850,0,1,"X21",15000,364,1,0,0,0,1
+"333","Seksi E1","Seksi","Pondok Melati//Jatiasih//Bekasi Selatan",0.807331384607543,"April 2019",2575588,2019-04-30,"16",1134996,9850,0,1,"X22",15000,365,1,0,0,0,0
+"334","Seksi E2","Seksi","Bekasi Barat//Cakung//Cilincing",0.877173204754621,"April 2019",919000,2019-04-30,"16",1134996,9850,0,1,"X23",15000,366,1,0,0,0,0
+"335","Seksi E3","Seksi","Cakung//Cilincing",0.466393607345187,"April 2019",72000,2019-04-30,"16",1134996,9850,0,1,"X24",15000,367,1,0,0,0,0
+"336","Ulujami – Pondok Aren","Seksi","Serpong//Ciputat//Pondok Aren",0.989144647819015,"April 2019",242000,2019-04-30,"16",1134996,9850,0,1,"X25",6500,368,1,0,0,0,0
+"337","Jagorawi","Utama","Kramat Jati// Cipayung// Ciracas//Makasar//Cimanggis",0.924708312168135,"May 2019",12147753,2019-05-31,"17",1202227,9850,0,1,"X1",6500,369,0,0,1,0,0
+"338","Ramp TMII & Dukuh","Seksi","Kramat Jati// Makasar",0.974476055438646,"May 2019",2385793,2019-05-31,"17",1202227,9850,0,1,"X4",6500,370,0,0,1,0,0
+"339","Ramp Cibubur","Seksi","Cipayung//Ciracas//Cimanggis",0.937565580954413,"May 2019",1963618,2019-05-31,"17",1202227,9850,0,1,"X5",6500,371,0,0,1,0,0
+"340","Cawang - Cimanggis","Seksi","Cimanggis",0.907163271626811,"May 2019",7798342,2019-05-31,"17",1202227,9850,0,1,"X6",6500,372,0,0,1,0,0
+"341","Japek","Utama","Bekasi Barat//Pondok Gede//Bekasi Timur//Tambun Selatan//Cibitung//Bekasi Selatan",0.802570510097598,"May 2019",13066416,2019-05-31,"17",1202227,9850,0,1,"X7",3000,373,0,0,1,0,0
+"342","Ramp PGT & PGB","Seksi","Pondok Gede",0.9792717617727,"May 2019",1762317,2019-05-31,"17",1202227,9850,0,1,"X10",1500,374,0,0,1,0,0
+"343","Ramp Cawang-Cikarang","Seksi","Bekasi Barat//Bekasi Timur//Tambun Selatan//Cibitung//Bekasi Selatan",0.787840520191094,"May 2019",8581453,2019-05-31,"17",1202227,9850,0,1,"X11",4500,375,0,0,1,0,0
+"344","Jakarta-Tangerang","Utama","Tanjung Duren//Kebon Jeruk//Kembangan//Karang Tengah//",0.880693561024901,"May 2019",11241065,2019-05-31,"17",1202227,9850,0,1,"X13",7000,377,0,0,1,0,0
+"345","Jakarta-Tangerang","Seksi","Tanjung Duren//Kebon Jeruk//Kembangan//Karang Tengah//",0.880693561024901,"May 2019",11241065,2019-05-31,"17",1202227,9850,0,1,"X13",7000,379,0,0,1,0,0
+"346","Lingkar Dalam & Sedyatmo","NON",NA,0.933530437720865,"May 2019",23481005,2019-05-31,"17",1202227,9850,0,1,"X14",9500,380,0,0,1,0,0
+"347","Dalam Kota Jakarta","Utama",NA,0.936019156888263,"May 2019",17149391,2019-05-31,"17",1202227,9850,0,1,"X15",9500,381,0,0,1,0,0
+"348","Cawang-Tomang-Pluit","Seksi","Jatinegara//Setiabudi//Pancoran//Kebayoran Baru//Tanah Abang//Palmerah//Grogol Petamburan//Tambora//Penjaringan",0.957217930477783,"May 2019",9622753,2019-05-31,"17",1202227,9850,0,1,"X16",9500,382,0,0,1,0,0
+"349","Cawang-Tj.Priok-Pluit","Seksi","Jatinegara//Pulo Gadung//Cempaka Putih//Pademangan//Penjaringan",0.908716760650925,"May 2019",7526638,2019-05-31,"17",1202227,9850,0,1,"X17",9500,383,0,0,1,0,0
+"350","Sedyatmo","Utama","Kalideres//Penjaringan",0.927166437543253,"May 2019",6331614,2019-05-31,"17",1202227,9850,0,1,"X18",7500,384,0,0,1,0,0
+"351","JORR","Utama",NA,0.887383799634147,"May 2019",6742432,2019-05-31,"17",1202227,9850,0,1,"X19",15000,385,1,0,1,0,1
+"352","Seksi W2","Seksi","Kembangan//Pesanggrahan//Cengkareng",0.971589006295137,"May 2019",2824087,2019-05-31,"17",1202227,9850,0,1,"X20",15000,386,1,0,1,0,0
+"353","Seksi S","Seksi","Kebayoran Lama//Jagakarsa//Cilandak//Pasar Minggu//Pesanggrahan//Pasar Rebo//Ciracas",0.939113033953954,"May 2019",4835541,2019-05-31,"17",1202227,9850,0,1,"X21",15000,387,1,0,1,0,1
+"354","Seksi E1","Seksi","Pondok Melati//Jatiasih//Bekasi Selatan",0.807331384607543,"May 2019",2581993,2019-05-31,"17",1202227,9850,0,1,"X22",15000,388,1,0,1,0,0
+"355","Seksi E2","Seksi","Bekasi Barat//Cakung//Cilincing",0.877173204754621,"May 2019",997000,2019-05-31,"17",1202227,9850,0,1,"X23",15000,389,1,0,1,0,0
+"356","Seksi E3","Seksi","Cakung//Cilincing",0.466393607345187,"May 2019",77000,2019-05-31,"17",1202227,9850,0,1,"X24",15000,390,1,0,1,0,0
+"357","Ulujami – Pondok Aren","Seksi","Serpong//Ciputat//Pondok Aren",0.989144647819015,"May 2019",263000,2019-05-31,"17",1202227,9850,0,1,"X25",6500,391,1,0,1,0,0
+"358","Jagorawi","Utama","Kramat Jati// Cipayung// Ciracas//Makasar//Cimanggis",0.924708312168135,"June 2019",11998652,2019-06-30,"18",1245970,9850,0,1,"X1",6500,392,0,0,1,0,0
+"359","Ramp TMII & Dukuh","Seksi","Kramat Jati// Makasar",0.974476055438646,"June 2019",2162538,2019-06-30,"18",1245970,9850,0,1,"X4",6500,393,0,0,1,0,0
+"360","Ramp Cibubur","Seksi","Cipayung//Ciracas//Cimanggis",0.937565580954413,"June 2019",1870793,2019-06-30,"18",1245970,9850,0,1,"X5",6500,394,0,0,1,0,0
+"361","Cawang - Cimanggis","Seksi","Cimanggis",0.907163271626811,"June 2019",7965321,2019-06-30,"18",1245970,9850,0,1,"X6",6500,395,0,0,1,0,0
+"362","Japek","Utama","Bekasi Barat//Pondok Gede//Bekasi Timur//Tambun Selatan//Cibitung//Bekasi Selatan",0.802570510097598,"June 2019",12172028,2019-06-30,"18",1245970,9850,0,1,"X7",3000,396,0,0,1,0,0
+"363","Ramp PGT & PGB","Seksi","Pondok Gede",0.9792717617727,"June 2019",1766629,2019-06-30,"18",1245970,9850,0,1,"X10",1500,397,0,0,1,0,0
+"364","Ramp Cawang-Cikarang","Seksi","Bekasi Barat//Bekasi Timur//Tambun Selatan//Cibitung//Bekasi Selatan",0.787840520191094,"June 2019",10405744,2019-06-30,"18",1245970,9850,0,1,"X11",4500,398,0,0,1,0,0
+"365","Jakarta-Tangerang","Utama","Tanjung Duren//Kebon Jeruk//Kembangan//Karang Tengah//",0.880693561024901,"June 2019",10405744,2019-06-30,"18",1245970,9850,0,1,"X13",7000,400,0,0,1,0,0
+"366","Jakarta-Tangerang","Seksi","Tanjung Duren//Kebon Jeruk//Kembangan//Karang Tengah//",0.880693561024901,"June 2019",10405744,2019-06-30,"18",1245970,9850,0,1,"X13",7000,402,0,0,1,0,0
+"367","Lingkar Dalam & Sedyatmo","NON",NA,0.933530437720865,"June 2019",21690224,2019-06-30,"18",1245970,9850,0,1,"X14",9500,403,0,0,1,0,0
+"368","Dalam Kota Jakarta","Utama",NA,0.936019156888263,"June 2019",15783668,2019-06-30,"18",1245970,9850,0,1,"X15",9500,404,0,0,1,0,0
+"369","Cawang-Tomang-Pluit","Seksi","Jatinegara//Setiabudi//Pancoran//Kebayoran Baru//Tanah Abang//Palmerah//Grogol Petamburan//Tambora//Penjaringan",0.957217930477783,"June 2019",9184167,2019-06-30,"18",1245970,9850,0,1,"X16",9500,405,0,0,1,0,0
+"370","Cawang-Tj.Priok-Pluit","Seksi","Jatinegara//Pulo Gadung//Cempaka Putih//Pademangan//Penjaringan",0.908716760650925,"June 2019",6599501,2019-06-30,"18",1245970,9850,0,1,"X17",9500,406,0,0,1,0,0
+"371","Sedyatmo","Utama","Kalideres//Penjaringan",0.927166437543253,"June 2019",5906556,2019-06-30,"18",1245970,9850,0,1,"X18",7500,407,0,0,1,0,0
+"372","JORR","Utama",NA,0.887383799634147,"June 2019",6514773,2019-06-30,"18",1245970,9850,0,1,"X19",15000,408,1,0,1,0,1
+"373","Seksi W2","Seksi","Kembangan//Pesanggrahan//Cengkareng",0.971589006295137,"June 2019",2500092,2019-06-30,"18",1245970,9850,0,1,"X20",15000,409,1,0,1,0,0
+"374","Seksi S","Seksi","Kebayoran Lama//Jagakarsa//Cilandak//Pasar Minggu//Pesanggrahan//Pasar Rebo//Ciracas",0.939113033953954,"June 2019",4673481,2019-06-30,"18",1245970,9850,0,1,"X21",15000,410,1,0,1,0,1
+"375","Seksi E1","Seksi","Pondok Melati//Jatiasih//Bekasi Selatan",0.807331384607543,"June 2019",2763547,2019-06-30,"18",1245970,9850,0,1,"X22",15000,411,1,0,1,0,0
+"376","Seksi E2","Seksi","Bekasi Barat//Cakung//Cilincing",0.877173204754621,"June 2019",988000,2019-06-30,"18",1245970,9850,0,1,"X23",15000,412,1,0,1,0,0
+"377","Seksi E3","Seksi","Cakung//Cilincing",0.466393607345187,"June 2019",55000,2019-06-30,"18",1245970,9850,0,1,"X24",15000,413,1,0,1,0,0
+"378","Ulujami – Pondok Aren","Seksi","Serpong//Ciputat//Pondok Aren",0.989144647819015,"June 2019",207000,2019-06-30,"18",1245970,9850,0,1,"X25",6500,414,1,0,1,0,0
+"379","Jagorawi","Utama","Kramat Jati// Cipayung// Ciracas//Makasar//Cimanggis",0.924708312168135,"July 2019",13179813,2019-07-31,"19",1314627,9850,0,1,"X1",6500,415,0,0,0,0,0
+"380","Ramp TMII & Dukuh","Seksi","Kramat Jati// Makasar",0.974476055438646,"July 2019",2520062,2019-07-31,"19",1314627,9850,0,1,"X4",6500,416,0,0,0,0,0
+"381","Ramp Cibubur","Seksi","Cipayung//Ciracas//Cimanggis",0.937565580954413,"July 2019",2090796,2019-07-31,"19",1314627,9850,0,1,"X5",6500,417,0,0,0,0,0
+"382","Cawang - Cimanggis","Seksi","Cimanggis",0.907163271626811,"July 2019",8568955,2019-07-31,"19",1314627,9850,0,1,"X6",6500,418,0,0,0,0,0
+"383","Japek","Utama","Bekasi Barat//Pondok Gede//Bekasi Timur//Tambun Selatan//Cibitung//Bekasi Selatan",0.802570510097598,"July 2019",12739113,2019-07-31,"19",1314627,9850,0,1,"X7",3000,419,0,0,0,0,0
+"384","Ramp PGT & PGB","Seksi","Pondok Gede",0.9792717617727,"July 2019",1873464,2019-07-31,"19",1314627,9850,0,1,"X10",1500,420,0,0,0,0,0
+"385","Ramp Cawang-Cikarang","Seksi","Bekasi Barat//Bekasi Timur//Tambun Selatan//Cibitung//Bekasi Selatan",0.787840520191094,"July 2019",10865649,2019-07-31,"19",1314627,9850,0,1,"X11",4500,421,0,0,0,0,0
+"386","Jakarta-Tangerang","Utama","Tanjung Duren//Kebon Jeruk//Kembangan//Karang Tengah//",0.880693561024901,"July 2019",12097317,2019-07-31,"19",1314627,9850,0,1,"X13",7000,423,0,0,0,0,0
+"387","Jakarta-Tangerang","Seksi","Tanjung Duren//Kebon Jeruk//Kembangan//Karang Tengah//",0.880693561024901,"July 2019",12097317,2019-07-31,"19",1314627,9850,0,1,"X13",7000,425,0,0,0,0,0
+"388","Lingkar Dalam & Sedyatmo","NON",NA,0.933530437720865,"July 2019",26091060,2019-07-31,"19",1314627,9850,0,1,"X14",9500,426,0,0,0,0,0
+"389","Dalam Kota Jakarta","Utama",NA,0.936019156888263,"July 2019",18768128,2019-07-31,"19",1314627,9850,0,1,"X15",9500,427,0,0,0,0,0
+"390","Cawang-Tomang-Pluit","Seksi","Jatinegara//Setiabudi//Pancoran//Kebayoran Baru//Tanah Abang//Palmerah//Grogol Petamburan//Tambora//Penjaringan",0.957217930477783,"July 2019",10472849,2019-07-31,"19",1314627,9850,0,1,"X16",9500,428,0,0,0,0,0
+"391","Cawang-Tj.Priok-Pluit","Seksi","Jatinegara//Pulo Gadung//Cempaka Putih//Pademangan//Penjaringan",0.908716760650925,"July 2019",8295279,2019-07-31,"19",1314627,9850,0,1,"X17",9500,429,0,0,0,0,0
+"392","Sedyatmo","Utama","Kalideres//Penjaringan",0.927166437543253,"July 2019",7322932,2019-07-31,"19",1314627,9850,0,1,"X18",7500,430,0,0,0,0,0
+"393","JORR","Utama",NA,0.887383799634147,"July 2019",7156900,2019-07-31,"19",1314627,9850,0,1,"X19",15000,431,1,0,0,0,1
+"394","Seksi W2","Seksi","Kembangan//Pesanggrahan//Cengkareng",0.971589006295137,"July 2019",2954963,2019-07-31,"19",1314627,9850,0,1,"X20",15000,432,1,0,0,0,0
+"395","Seksi S","Seksi","Kebayoran Lama//Jagakarsa//Cilandak//Pasar Minggu//Pesanggrahan//Pasar Rebo//Ciracas",0.939113033953954,"July 2019",5191788,2019-07-31,"19",1314627,9850,0,1,"X21",15000,433,1,0,0,0,1
+"396","Seksi E1","Seksi","Pondok Melati//Jatiasih//Bekasi Selatan",0.807331384607543,"July 2019",2819155,2019-07-31,"19",1314627,9850,0,1,"X22",15000,434,1,0,0,0,0
+"397","Seksi E2","Seksi","Bekasi Barat//Cakung//Cilincing",0.877173204754621,"July 2019",1057678,2019-07-31,"19",1314627,9850,0,1,"X23",15000,435,1,0,0,0,0
+"398","Seksi E3","Seksi","Cakung//Cilincing",0.466393607345187,"July 2019",71000,2019-07-31,"19",1314627,9850,0,1,"X24",15000,436,1,0,0,0,0
+"399","Ulujami – Pondok Aren","Seksi","Serpong//Ciputat//Pondok Aren",0.989144647819015,"July 2019",254000,2019-07-31,"19",1314627,9850,0,1,"X25",6500,437,1,0,0,0,0
+"400","Jagorawi","Utama","Kramat Jati// Cipayung// Ciracas//Makasar//Cimanggis",0.924708312168135,"August 2019",12922417,2019-08-31,"20",1382708,9850,0,1,"X1",6500,438,0,0,0,0,0
+"401","Ramp TMII & Dukuh","Seksi","Kramat Jati// Makasar",0.974476055438646,"August 2019",2434365,2019-08-31,"20",1382708,9850,0,1,"X4",6500,439,0,0,0,0,0
+"402","Ramp Cibubur","Seksi","Cipayung//Ciracas//Cimanggis",0.937565580954413,"August 2019",2067917,2019-08-31,"20",1382708,9850,0,1,"X5",6500,440,0,0,0,0,0
+"403","Cawang - Cimanggis","Seksi","Cimanggis",0.907163271626811,"August 2019",8420135,2019-08-31,"20",1382708,9850,0,1,"X6",6500,441,0,0,0,0,0
+"404","Japek","Utama","Bekasi Barat//Pondok Gede//Bekasi Timur//Tambun Selatan//Cibitung//Bekasi Selatan",0.802570510097598,"August 2019",12756393,2019-08-31,"20",1382708,9850,0,1,"X7",3000,442,0,0,0,0,0
+"405","Ramp PGT & PGB","Seksi","Pondok Gede",0.9792717617727,"August 2019",1853733,2019-08-31,"20",1382708,9850,0,1,"X10",1500,443,0,0,0,0,0
+"406","Ramp Cawang-Cikarang","Seksi","Bekasi Barat//Bekasi Timur//Tambun Selatan//Cibitung//Bekasi Selatan",0.787840520191094,"August 2019",10902660,2019-08-31,"20",1382708,9850,0,1,"X11",4500,444,0,0,0,0,0
+"407","Jakarta-Tangerang","Utama","Tanjung Duren//Kebon Jeruk//Kembangan//Karang Tengah//",0.880693561024901,"August 2019",11945358,2019-08-31,"20",1382708,9850,0,1,"X13",7000,446,0,0,0,0,0
+"408","Jakarta-Tangerang","Seksi","Tanjung Duren//Kebon Jeruk//Kembangan//Karang Tengah//",0.880693561024901,"August 2019",11945358,2019-08-31,"20",1382708,9850,0,1,"X13",7000,448,0,0,0,0,0
+"409","Lingkar Dalam & Sedyatmo","NON",NA,0.933530437720865,"August 2019",25516193,2019-08-31,"20",1382708,9850,0,1,"X14",9500,449,0,0,0,0,0
+"410","Dalam Kota Jakarta","Utama",NA,0.936019156888263,"August 2019",18326493,2019-08-31,"20",1382708,9850,0,1,"X15",9500,450,0,0,0,0,0
+"411","Cawang-Tomang-Pluit","Seksi","Jatinegara//Setiabudi//Pancoran//Kebayoran Baru//Tanah Abang//Palmerah//Grogol Petamburan//Tambora//Penjaringan",0.957217930477783,"August 2019",10929508,2019-08-31,"20",1382708,9850,0,1,"X16",9500,451,0,0,0,0,0
+"412","Cawang-Tj.Priok-Pluit","Seksi","Jatinegara//Pulo Gadung//Cempaka Putih//Pademangan//Penjaringan",0.908716760650925,"August 2019",8033985,2019-08-31,"20",1382708,9850,0,1,"X17",9500,452,0,0,0,0,0
+"413","Sedyatmo","Utama","Kalideres//Penjaringan",0.927166437543253,"August 2019",7189700,2019-08-31,"20",1382708,9850,0,1,"X18",7500,453,0,0,0,0,0
+"414","JORR","Utama",NA,0.887383799634147,"August 2019",7088924,2019-08-31,"20",1382708,9850,0,1,"X19",15000,454,1,0,0,0,1
+"415","Seksi W2","Seksi","Kembangan//Pesanggrahan//Cengkareng",0.971589006295137,"August 2019",2857444,2019-08-31,"20",1382708,9850,0,1,"X20",15000,455,1,0,0,0,0
+"416","Seksi S","Seksi","Kebayoran Lama//Jagakarsa//Cilandak//Pasar Minggu//Pesanggrahan//Pasar Rebo//Ciracas",0.939113033953954,"August 2019",5121005,2019-08-31,"20",1382708,9850,0,1,"X21",15000,456,1,0,0,0,1
+"417","Seksi E1","Seksi","Pondok Melati//Jatiasih//Bekasi Selatan",0.807331384607543,"August 2019",2830002,2019-08-31,"20",1382708,9850,0,1,"X22",15000,457,1,0,0,0,0
+"418","Seksi E2","Seksi","Bekasi Barat//Cakung//Cilincing",0.877173204754621,"August 2019",1072604,2019-08-31,"20",1382708,9850,0,1,"X23",15000,458,1,0,0,0,0
+"419","Seksi E3","Seksi","Cakung//Cilincing",0.466393607345187,"August 2019",71000,2019-08-31,"20",1382708,9850,0,1,"X24",15000,459,1,0,0,0,0
+"420","Ulujami – Pondok Aren","Seksi","Serpong//Ciputat//Pondok Aren",0.989144647819015,"August 2019",258000,2019-08-31,"20",1382708,9850,0,1,"X25",6500,460,1,0,0,0,0
+"421","Jagorawi","Utama","Kramat Jati// Cipayung// Ciracas//Makasar//Cimanggis",0.924708312168135,"September 2019",12478198,2019-09-30,"21",1453708,9850,0,1,"X1",6500,461,0,0,0,0,0
+"422","Ramp TMII & Dukuh","Seksi","Kramat Jati// Makasar",0.974476055438646,"September 2019",2338826,2019-09-30,"21",1453708,9850,0,1,"X4",6500,462,0,0,0,0,0
+"423","Ramp Cibubur","Seksi","Cipayung//Ciracas//Cimanggis",0.937565580954413,"September 2019",1987766,2019-09-30,"21",1453708,9850,0,1,"X5",6500,463,0,0,0,0,0
+"424","Cawang - Cimanggis","Seksi","Cimanggis",0.907163271626811,"September 2019",8151606,2019-09-30,"21",1453708,9850,0,1,"X6",6500,464,0,0,0,0,0
+"425","Japek","Utama","Bekasi Barat//Pondok Gede//Bekasi Timur//Tambun Selatan//Cibitung//Bekasi Selatan",0.802570510097598,"September 2019",12182534,2019-09-30,"21",1453708,9850,0,1,"X7",3000,465,0,0,0,0,0
+"426","Ramp PGT & PGB","Seksi","Pondok Gede",0.9792717617727,"September 2019",1770338,2019-09-30,"21",1453708,9850,0,1,"X10",1500,466,0,0,0,0,0
+"427","Ramp Cawang-Cikarang","Seksi","Bekasi Barat//Bekasi Timur//Tambun Selatan//Cibitung//Bekasi Selatan",0.787840520191094,"September 2019",10412196,2019-09-30,"21",1453708,9850,0,1,"X11",4500,467,0,0,0,0,0
+"428","Jakarta-Tangerang","Utama","Tanjung Duren//Kebon Jeruk//Kembangan//Karang Tengah//",0.880693561024901,"September 2019",11620015,2019-09-30,"21",1453708,9850,0,1,"X13",7000,469,0,0,0,0,0
+"429","Jakarta-Tangerang","Seksi","Tanjung Duren//Kebon Jeruk//Kembangan//Karang Tengah//",0.880693561024901,"September 2019",11620015,2019-09-30,"21",1453708,9850,0,1,"X13",7000,471,0,0,0,0,0
+"430","Lingkar Dalam & Sedyatmo","NON",NA,0.933530437720865,"September 2019",23868812,2019-09-30,"21",1453708,9850,0,1,"X14",9500,472,0,0,0,0,0
+"431","Dalam Kota Jakarta","Utama",NA,0.936019156888263,"September 2019",16836869,2019-09-30,"21",1453708,9850,0,1,"X15",9500,473,0,0,0,0,0
+"432","Cawang-Tomang-Pluit","Seksi","Jatinegara//Setiabudi//Pancoran//Kebayoran Baru//Tanah Abang//Palmerah//Grogol Petamburan//Tambora//Penjaringan",0.957217930477783,"September 2019",9654800,2019-09-30,"21",1453708,9850,0,1,"X16",9500,474,0,0,0,0,0
+"433","Cawang-Tj.Priok-Pluit","Seksi","Jatinegara//Pulo Gadung//Cempaka Putih//Pademangan//Penjaringan",0.908716760650925,"September 2019",7182069,2019-09-30,"21",1453708,9850,0,1,"X17",9500,475,0,0,0,0,0
+"434","Sedyatmo","Utama","Kalideres//Penjaringan",0.927166437543253,"September 2019",7031943,2019-09-30,"21",1453708,9850,0,1,"X18",7500,476,0,0,0,0,0
+"435","JORR","Utama",NA,0.887383799634147,"September 2019",6936971,2019-09-30,"21",1453708,9850,0,1,"X19",15000,477,1,0,0,0,1
+"436","Seksi W2","Seksi","Kembangan//Pesanggrahan//Cengkareng",0.971589006295137,"September 2019",2806626,2019-09-30,"21",1453708,9850,0,1,"X20",15000,478,1,0,0,0,0
+"437","Seksi S","Seksi","Kebayoran Lama//Jagakarsa//Cilandak//Pasar Minggu//Pesanggrahan//Pasar Rebo//Ciracas",0.939113033953954,"September 2019",5030917,2019-09-30,"21",1453708,9850,0,1,"X21",15000,479,1,0,0,0,1
+"438","Seksi E1","Seksi","Pondok Melati//Jatiasih//Bekasi Selatan",0.807331384607543,"September 2019",2741690,2019-09-30,"21",1453708,9850,0,1,"X22",15000,480,1,0,0,0,0
+"439","Seksi E2","Seksi","Bekasi Barat//Cakung//Cilincing",0.877173204754621,"September 2019",1063158,2019-09-30,"21",1453708,9850,0,1,"X23",15000,481,1,0,0,0,0
+"440","Seksi E3","Seksi","Cakung//Cilincing",0.466393607345187,"September 2019",67000,2019-09-30,"21",1453708,9850,0,1,"X24",15000,482,1,0,0,0,0
+"441","Ulujami – Pondok Aren","Seksi","Serpong//Ciputat//Pondok Aren",0.989144647819015,"September 2019",259000,2019-09-30,"21",1453708,9850,0,1,"X25",6500,483,1,0,0,0,0
+"442","Jagorawi","Utama","Kramat Jati// Cipayung// Ciracas//Makasar//Cimanggis",0.924708312168135,"October 2019",13025640,2019-10-31,"22",1526037,9850,0,1,"X1",6500,484,0,0,0,0,0
+"443","Ramp TMII & Dukuh","Seksi","Kramat Jati// Makasar",0.974476055438646,"October 2019",2427878,2019-10-31,"22",1526037,9850,0,1,"X4",6500,485,0,0,0,0,0
+"444","Ramp Cibubur","Seksi","Cipayung//Ciracas//Cimanggis",0.937565580954413,"October 2019",2032531,2019-10-31,"22",1526037,9850,0,1,"X5",6500,486,0,0,0,0,0
+"445","Cawang - Cimanggis","Seksi","Cimanggis",0.907163271626811,"October 2019",8565231,2019-10-31,"22",1526037,9850,0,1,"X6",6500,487,0,0,0,0,0
+"446","Japek","Utama","Bekasi Barat//Pondok Gede//Bekasi Timur//Tambun Selatan//Cibitung//Bekasi Selatan",0.802570510097598,"October 2019",12770949,2019-10-31,"22",1526037,9850,0,1,"X7",3000,488,0,0,0,0,0
+"447","Ramp PGT & PGB","Seksi","Pondok Gede",0.9792717617727,"October 2019",1851147,2019-10-31,"22",1526037,9850,0,1,"X10",1500,489,0,0,0,0,0
+"448","Ramp Cawang-Cikarang","Seksi","Bekasi Barat//Bekasi Timur//Tambun Selatan//Cibitung//Bekasi Selatan",0.787840520191094,"October 2019",10919802,2019-10-31,"22",1526037,9850,0,1,"X11",4500,490,0,0,0,0,0
+"449","Jakarta-Tangerang","Utama","Tanjung Duren//Kebon Jeruk//Kembangan//Karang Tengah//",0.880693561024901,"October 2019",12106012,2019-10-31,"22",1526037,9850,0,1,"X13",7500,492,0,0,0,0,0
+"450","Jakarta-Tangerang","Seksi","Tanjung Duren//Kebon Jeruk//Kembangan//Karang Tengah//",0.880693561024901,"October 2019",12106012,2019-10-31,"22",1526037,9850,0,1,"X13",7500,494,0,0,0,0,0
+"451","Lingkar Dalam & Sedyatmo","NON",NA,0.933530437720865,"October 2019",25645179,2019-10-31,"22",1526037,9850,0,1,"X14",9500,495,0,0,0,0,0
+"452","Dalam Kota Jakarta","Utama",NA,0.936019156888263,"October 2019",18298130,2019-10-31,"22",1526037,9850,0,1,"X15",9500,496,0,0,0,0,0
+"453","Cawang-Tomang-Pluit","Seksi","Jatinegara//Setiabudi//Pancoran//Kebayoran Baru//Tanah Abang//Palmerah//Grogol Petamburan//Tambora//Penjaringan",0.957217930477783,"October 2019",10152490,2019-10-31,"22",1526037,9850,0,1,"X16",9500,497,0,0,0,0,0
+"454","Cawang-Tj.Priok-Pluit","Seksi","Jatinegara//Pulo Gadung//Cempaka Putih//Pademangan//Penjaringan",0.908716760650925,"October 2019",8145640,2019-10-31,"22",1526037,9850,0,1,"X17",9500,498,0,0,0,0,0
+"455","Sedyatmo","Utama","Kalideres//Penjaringan",0.927166437543253,"October 2019",7347049,2019-10-31,"22",1526037,9850,0,1,"X18",7500,499,0,0,0,0,0
+"456","JORR","Utama",NA,0.887383799634147,"October 2019",7220865,2019-10-31,"22",1526037,9850,0,1,"X19",15000,500,1,0,0,0,1
+"457","Seksi W2","Seksi","Kembangan//Pesanggrahan//Cengkareng",0.971589006295137,"October 2019",2895741,2019-10-31,"22",1526037,9850,0,1,"X20",15000,501,1,0,0,0,0
+"458","Seksi S","Seksi","Kebayoran Lama//Jagakarsa//Cilandak//Pasar Minggu//Pesanggrahan//Pasar Rebo//Ciracas",0.939113033953954,"October 2019",5177446,2019-10-31,"22",1526037,9850,0,1,"X21",15000,502,1,0,0,0,1
+"459","Seksi E1","Seksi","Pondok Melati//Jatiasih//Bekasi Selatan",0.807331384607543,"October 2019",2863747,2019-10-31,"22",1526037,9850,0,1,"X22",15000,503,1,0,0,0,0
+"460","Seksi E2","Seksi","Bekasi Barat//Cakung//Cilincing",0.877173204754621,"October 2019",1124546,2019-10-31,"22",1526037,9850,0,1,"X23",15000,504,1,0,0,0,0
+"461","Seksi E3","Seksi","Cakung//Cilincing",0.466393607345187,"October 2019",70000,2019-10-31,"22",1526037,9850,0,1,"X24",15000,505,1,0,0,0,0
+"462","Ulujami – Pondok Aren","Seksi","Serpong//Ciputat//Pondok Aren",0.989144647819015,"October 2019",267000,2019-10-31,"22",1526037,9850,0,1,"X25",6500,506,1,0,0,0,0
+"463","Jagorawi","Utama","Kramat Jati// Cipayung// Ciracas//Makasar//Cimanggis",0.924708312168135,"November 2019",12930219,2019-11-30,"23",1595938,9850,0,1,"X1",6500,507,0,0,0,0,0
+"464","Ramp TMII & Dukuh","Seksi","Kramat Jati// Makasar",0.974476055438646,"November 2019",2381717,2019-11-30,"23",1595938,9850,0,1,"X4",6500,508,0,0,0,0,0
+"465","Ramp Cibubur","Seksi","Cipayung//Ciracas//Cimanggis",0.937565580954413,"November 2019",1968766,2019-11-30,"23",1595938,9850,0,1,"X5",6500,509,0,0,0,0,0
+"466","Cawang - Cimanggis","Seksi","Cimanggis",0.907163271626811,"November 2019",8579736,2019-11-30,"23",1595938,9850,0,1,"X6",6500,510,0,0,0,0,0
+"467","Japek","Utama","Bekasi Barat//Pondok Gede//Bekasi Timur//Tambun Selatan//Cibitung//Bekasi Selatan",0.802570510097598,"November 2019",12582049,2019-11-30,"23",1595938,9850,0,1,"X7",3000,511,0,0,0,0,0
+"468","Ramp PGT & PGB","Seksi","Pondok Gede",0.9792717617727,"November 2019",1796171,2019-11-30,"23",1595938,9850,0,1,"X10",1500,512,0,0,0,0,0
+"469","Ramp Cawang-Cikarang","Seksi","Bekasi Barat//Bekasi Timur//Tambun Selatan//Cibitung//Bekasi Selatan",0.787840520191094,"November 2019",10785878,2019-11-30,"23",1595938,9850,0,1,"X11",4500,513,0,0,0,0,0
+"470","Jakarta-Tangerang","Utama","Tanjung Duren//Kebon Jeruk//Kembangan//Karang Tengah//",0.880693561024901,"November 2019",11781930,2019-11-30,"23",1595938,9850,0,1,"X13",7500,515,0,0,0,0,0
+"471","Jakarta-Tangerang","Seksi","Tanjung Duren//Kebon Jeruk//Kembangan//Karang Tengah//",0.880693561024901,"November 2019",11781930,2019-11-30,"23",1595938,9850,0,1,"X13",7500,517,0,0,0,0,0
+"472","Lingkar Dalam & Sedyatmo","NON",NA,0.933530437720865,"November 2019",25141785,2019-11-30,"23",1595938,9850,0,1,"X14",9500,518,0,0,0,0,0
+"473","Dalam Kota Jakarta","Utama",NA,0.936019156888263,"November 2019",18091535,2019-11-30,"23",1595938,9850,0,1,"X15",9500,519,0,0,0,0,0
+"474","Cawang-Tomang-Pluit","Seksi","Jatinegara//Setiabudi//Pancoran//Kebayoran Baru//Tanah Abang//Palmerah//Grogol Petamburan//Tambora//Penjaringan",0.957217930477783,"November 2019",10080333,2019-11-30,"23",1595938,9850,0,1,"X16",9500,520,0,0,0,0,0
+"475","Cawang-Tj.Priok-Pluit","Seksi","Jatinegara//Pulo Gadung//Cempaka Putih//Pademangan//Penjaringan",0.908716760650925,"November 2019",8011202,2019-11-30,"23",1595938,9850,0,1,"X17",9500,521,0,0,0,0,0
+"476","Sedyatmo","Utama","Kalideres//Penjaringan",0.927166437543253,"November 2019",7326323,2019-11-30,"23",1595938,9850,0,1,"X18",7500,522,0,0,0,0,0
+"477","JORR","Utama",NA,0.887383799634147,"November 2019",7066961,2019-11-30,"23",1595938,9850,0,1,"X19",15000,523,1,0,0,0,1
+"478","Seksi W2","Seksi","Kembangan//Pesanggrahan//Cengkareng",0.971589006295137,"November 2019",2842624,2019-11-30,"23",1595938,9850,0,1,"X20",15000,524,1,0,0,0,0
+"479","Seksi S","Seksi","Kebayoran Lama//Jagakarsa//Cilandak//Pasar Minggu//Pesanggrahan//Pasar Rebo//Ciracas",0.939113033953954,"November 2019",5089605,2019-11-30,"23",1595938,9850,0,1,"X21",15000,525,1,0,0,0,1
+"480","Seksi E1","Seksi","Pondok Melati//Jatiasih//Bekasi Selatan",0.807331384607543,"November 2019",2788642,2019-11-30,"23",1595938,9850,0,1,"X22",15000,526,1,0,0,0,0
+"481","Seksi E2","Seksi","Bekasi Barat//Cakung//Cilincing",0.877173204754621,"November 2019",1104628,2019-11-30,"23",1595938,9850,0,1,"X23",15000,527,1,0,0,0,0
+"482","Seksi E3","Seksi","Cakung//Cilincing",0.466393607345187,"November 2019",70000,2019-11-30,"23",1595938,9850,0,1,"X24",15000,528,1,0,0,0,0
+"483","Ulujami – Pondok Aren","Seksi","Serpong//Ciputat//Pondok Aren",0.989144647819015,"November 2019",261000,2019-11-30,"23",1595938,9850,0,1,"X25",6500,529,1,0,0,0,0
+"484","Jagorawi","Utama","Kramat Jati// Cipayung// Ciracas//Makasar//Cimanggis",0.924708312168135,"December 2019",13230095,2019-12-31,"24",1660216,9850,0,1,"X1",7000,530,0,1,0,0,0
+"485","Ramp TMII & Dukuh","Seksi","Kramat Jati// Makasar",0.974476055438646,"December 2019",2351906,2019-12-31,"24",1660216,9850,0,1,"X4",7000,531,0,1,0,0,0
+"486","Ramp Cibubur","Seksi","Cipayung//Ciracas//Cimanggis",0.937565580954413,"December 2019",1983547,2019-12-31,"24",1660216,9850,0,1,"X5",7000,532,0,1,0,0,0
+"487","Cawang - Cimanggis","Seksi","Cimanggis",0.907163271626811,"December 2019",8894642,2019-12-31,"24",1660216,9850,0,1,"X6",7000,533,0,1,0,0,0
+"488","Japek","Utama","Bekasi Barat//Pondok Gede//Bekasi Timur//Tambun Selatan//Cibitung//Bekasi Selatan",0.802570510097598,"December 2019",13605134,2019-12-31,"24",1660216,9850,0,1,"X7",3000,534,0,1,0,0,0
+"489","Ramp PGT & PGB","Seksi","Pondok Gede",0.9792717617727,"December 2019",1757938,2019-12-31,"24",1660216,9850,0,1,"X10",1500,535,0,1,0,0,0
+"490","Ramp Cawang-Cikarang","Seksi","Bekasi Barat//Bekasi Timur//Tambun Selatan//Cibitung//Bekasi Selatan",0.787840520191094,"December 2019",11847196,2019-12-31,"24",1660216,9850,0,1,"X11",4500,536,0,1,0,0,0
+"491","Jakarta-Tangerang","Utama","Tanjung Duren//Kebon Jeruk//Kembangan//Karang Tengah//",0.880693561024901,"December 2019",11844049,2019-12-31,"24",1660216,9850,0,1,"X13",7500,538,0,1,0,0,0
+"492","Jakarta-Tangerang","Seksi","Tanjung Duren//Kebon Jeruk//Kembangan//Karang Tengah//",0.880693561024901,"December 2019",11844049,2019-12-31,"24",1660216,9850,0,1,"X13",7500,540,0,1,0,0,0
+"493","Lingkar Dalam & Sedyatmo","NON",NA,0.933530437720865,"December 2019",25248388,2019-12-31,"24",1660216,9850,0,1,"X14",9500,541,0,1,0,0,0
+"494","Dalam Kota Jakarta","Utama",NA,0.936019156888263,"December 2019",18134700,2019-12-31,"24",1660216,9850,0,1,"X15",9500,542,0,1,0,0,0
+"495","Cawang-Tomang-Pluit","Seksi","Jatinegara//Setiabudi//Pancoran//Kebayoran Baru//Tanah Abang//Palmerah//Grogol Petamburan//Tambora//Penjaringan",0.957217930477783,"December 2019",10269093,2019-12-31,"24",1660216,9850,0,1,"X16",9500,543,0,1,0,0,0
+"496","Cawang-Tj.Priok-Pluit","Seksi","Jatinegara//Pulo Gadung//Cempaka Putih//Pademangan//Penjaringan",0.908716760650925,"December 2019",7838607,2019-12-31,"24",1660216,9850,0,1,"X17",9500,544,0,1,0,0,0
+"497","Sedyatmo","Utama","Kalideres//Penjaringan",0.927166437543253,"December 2019",7113688,2019-12-31,"24",1660216,9850,0,1,"X18",7500,545,0,1,0,0,0
+"498","JORR","Utama",NA,0.887383799634147,"December 2019",7360580,2019-12-31,"24",1660216,9850,0,1,"X19",15000,546,1,1,0,0,1
+"499","Seksi W2","Seksi","Kembangan//Pesanggrahan//Cengkareng",0.971589006295137,"December 2019",2834980,2019-12-31,"24",1660216,9850,0,1,"X20",15000,547,1,1,0,0,0
+"500","Seksi S","Seksi","Kebayoran Lama//Jagakarsa//Cilandak//Pasar Minggu//Pesanggrahan//Pasar Rebo//Ciracas",0.939113033953954,"December 2019",5155548,2019-12-31,"24",1660216,9850,0,1,"X21",15000,548,1,1,0,0,1
+"501","Seksi E1","Seksi","Pondok Melati//Jatiasih//Bekasi Selatan",0.807331384607543,"December 2019",2792420,2019-12-31,"24",1660216,9850,0,1,"X22",15000,549,1,1,0,0,0
+"502","Seksi E2","Seksi","Bekasi Barat//Cakung//Cilincing",0.877173204754621,"December 2019",1418748,2019-12-31,"24",1660216,9850,0,1,"X23",15000,550,1,1,0,0,0
+"503","Seksi E3","Seksi","Cakung//Cilincing",0.466393607345187,"December 2019",65000,2019-12-31,"24",1660216,9850,0,1,"X24",15000,551,1,1,0,0,0
+"504","Ulujami – Pondok Aren","Seksi","Serpong//Ciputat//Pondok Aren",0.989144647819015,"December 2019",250000,2019-12-31,"24",1660216,9850,0,1,"X25",6500,552,1,1,0,0,0
+"505","Jagorawi","Utama","Kramat Jati// Cipayung// Ciracas//Makasar//Cimanggis",0.924708312168135,"January 2020",12317953,2020-01-31,"25",1717305,9000,0,1,"X1",7000,553,0,0,0,0,0
+"506","Ramp TMII & Dukuh","Seksi","Kramat Jati// Makasar",0.974476055438646,"January 2020",2227334,2020-01-31,"25",1717305,9000,0,1,"X4",7000,554,0,0,0,0,0
+"507","Ramp Cibubur","Seksi","Cipayung//Ciracas//Cimanggis",0.937565580954413,"January 2020",1915235,2020-01-31,"25",1717305,9000,0,1,"X5",7000,555,0,0,0,0,0
+"508","Cawang - Cimanggis","Seksi","Cimanggis",0.907163271626811,"January 2020",8175384,2020-01-31,"25",1717305,9000,0,1,"X6",7000,556,0,0,0,0,0
+"509","Japek","Utama","Bekasi Barat//Pondok Gede//Bekasi Timur//Tambun Selatan//Cibitung//Bekasi Selatan",0.802570510097598,"January 2020",12990787,2020-01-31,"25",1717305,9000,0,1,"X7",3000,557,0,0,0,0,0
+"510","Ramp PGT & PGB","Seksi","Pondok Gede",0.9792717617727,"January 2020",1972459,2020-01-31,"25",1717305,9000,0,1,"X10",1500,558,0,0,0,0,0
+"511","Ramp Cawang-Cikarang","Seksi","Bekasi Barat//Bekasi Timur//Tambun Selatan//Cibitung//Bekasi Selatan",0.787840520191094,"January 2020",4050308,2020-01-31,"25",1717305,9000,0,1,"X11",4500,559,0,0,0,0,0
+"512","Jakarta-Tangerang","Utama","Tanjung Duren//Kebon Jeruk//Kembangan//Karang Tengah//",0.880693561024901,"January 2020",11539958,2020-01-31,"25",1717305,9000,0,1,"X13",7500,561,0,0,0,0,0
+"513","Jakarta-Tangerang","Seksi","Tanjung Duren//Kebon Jeruk//Kembangan//Karang Tengah//",0.880693561024901,"January 2020",11539958,2020-01-31,"25",1717305,9000,0,1,"X13",7500,563,0,0,0,0,0
+"514","Lingkar Dalam & Sedyatmo","NON",NA,0.933530437720865,"January 2020",23514493,2020-01-31,"25",1717305,9000,0,1,"X14",9500,564,0,0,0,0,0
+"515","Dalam Kota Jakarta","Utama",NA,0.936019156888263,"January 2020",16634306,2020-01-31,"25",1717305,9000,0,1,"X15",9500,565,0,0,0,0,0
+"516","Cawang-Tomang-Pluit","Seksi","Jatinegara//Setiabudi//Pancoran//Kebayoran Baru//Tanah Abang//Palmerah//Grogol Petamburan//Tambora//Penjaringan",0.957217930477783,"January 2020",9495316,2020-01-31,"25",1717305,9000,0,1,"X16",9500,566,0,0,0,0,0
+"517","Cawang-Tj.Priok-Pluit","Seksi","Jatinegara//Pulo Gadung//Cempaka Putih//Pademangan//Penjaringan",0.908716760650925,"January 2020",7138990,2020-01-31,"25",1717305,9000,0,1,"X17",9500,567,0,0,0,0,0
+"518","Sedyatmo","Utama","Kalideres//Penjaringan",0.927166437543253,"January 2020",6880187,2020-01-31,"25",1717305,9000,0,1,"X18",7500,568,0,0,0,0,0
+"519","JORR","Utama",NA,0.887383799634147,"January 2020",7096276,2020-01-31,"25",1717305,9000,0,1,"X19",15000,569,1,0,0,0,1
+"520","Seksi W2","Seksi","Kembangan//Pesanggrahan//Cengkareng",0.971589006295137,"January 2020",2732046,2020-01-31,"25",1717305,9000,0,1,"X20",15000,570,1,0,0,0,0
+"521","Seksi S","Seksi","Kebayoran Lama//Jagakarsa//Cilandak//Pasar Minggu//Pesanggrahan//Pasar Rebo//Ciracas",0.939113033953954,"January 2020",4905105,2020-01-31,"25",1717305,9000,0,1,"X21",15000,571,1,0,0,0,1
+"522","Seksi E1","Seksi","Pondok Melati//Jatiasih//Bekasi Selatan",0.807331384607543,"January 2020",2551576,2020-01-31,"25",1717305,9000,0,1,"X22",15000,572,1,0,0,0,0
+"523","Seksi E2","Seksi","Bekasi Barat//Cakung//Cilincing",0.877173204754621,"January 2020",1490351,2020-01-31,"25",1717305,9000,0,1,"X23",15000,573,1,0,0,0,0
+"524","Seksi E3","Seksi","Cakung//Cilincing",0.466393607345187,"January 2020",65195,2020-01-31,"25",1717305,9000,0,1,"X24",15000,574,1,0,0,0,0
+"525","Ulujami – Pondok Aren","Seksi","Serpong//Ciputat//Pondok Aren",0.989144647819015,"January 2020",257108,2020-01-31,"25",1717305,9000,0,1,"X25",6500,575,1,0,0,0,0
+"526","Jagorawi","Utama","Kramat Jati// Cipayung// Ciracas//Makasar//Cimanggis",0.924708312168135,"February 2020",11698196,2020-02-29,"26",1779597,9000,0,1,"X1",7000,576,0,0,0,0,0
+"527","Ramp TMII & Dukuh","Seksi","Kramat Jati// Makasar",0.974476055438646,"February 2020",2137970,2020-02-29,"26",1779597,9000,0,1,"X4",7000,577,0,0,0,0,0
+"528","Ramp Cibubur","Seksi","Cipayung//Ciracas//Cimanggis",0.937565580954413,"February 2020",1779717,2020-02-29,"26",1779597,9000,0,1,"X5",7000,578,0,0,0,0,0
+"529","Cawang - Cimanggis","Seksi","Cimanggis",0.907163271626811,"February 2020",7780509,2020-02-29,"26",1779597,9000,0,1,"X6",7000,579,0,0,0,0,0
+"530","Japek","Utama","Bekasi Barat//Pondok Gede//Bekasi Timur//Tambun Selatan//Cibitung//Bekasi Selatan",0.802570510097598,"February 2020",12596912,2020-02-29,"26",1779597,9000,0,1,"X7",3000,580,0,0,0,0,0
+"531","Ramp PGT & PGB","Seksi","Pondok Gede",0.9792717617727,"February 2020",1930419,2020-02-29,"26",1779597,9000,0,1,"X10",1500,581,0,0,0,0,0
+"532","Ramp Cawang-Cikarang","Seksi","Bekasi Barat//Bekasi Timur//Tambun Selatan//Cibitung//Bekasi Selatan",0.787840520191094,"February 2020",3728738,2020-02-29,"26",1779597,9000,0,1,"X11",4500,582,0,0,0,0,0
+"533","Jakarta-Tangerang","Utama","Tanjung Duren//Kebon Jeruk//Kembangan//Karang Tengah//",0.880693561024901,"February 2020",11088942,2020-02-29,"26",1779597,9000,0,1,"X13",7500,584,0,0,0,0,0
+"534","Jakarta-Tangerang","Seksi","Tanjung Duren//Kebon Jeruk//Kembangan//Karang Tengah//",0.880693561024901,"February 2020",11088942,2020-02-29,"26",1779597,9000,0,1,"X13",7500,586,0,0,0,0,0
+"535","Lingkar Dalam & Sedyatmo","NON",NA,0.933530437720865,"February 2020",22893505,2020-02-29,"26",1779597,9000,0,1,"X14",10000,587,0,0,0,0,0
+"536","Dalam Kota Jakarta","Utama",NA,0.936019156888263,"February 2020",16521278,2020-02-29,"26",1779597,9000,0,1,"X15",10000,588,0,0,0,0,0
+"537","Cawang-Tomang-Pluit","Seksi","Jatinegara//Setiabudi//Pancoran//Kebayoran Baru//Tanah Abang//Palmerah//Grogol Petamburan//Tambora//Penjaringan",0.957217930477783,"February 2020",9333021,2020-02-29,"26",1779597,9000,0,1,"X16",10000,589,0,0,0,0,0
+"538","Cawang-Tj.Priok-Pluit","Seksi","Jatinegara//Pulo Gadung//Cempaka Putih//Pademangan//Penjaringan",0.908716760650925,"February 2020",7188257,2020-02-29,"26",1779597,9000,0,1,"X17",10000,590,0,0,0,0,0
+"539","Sedyatmo","Utama","Kalideres//Penjaringan",0.927166437543253,"February 2020",6372227,2020-02-29,"26",1779597,9000,0,1,"X18",7500,591,0,0,0,0,0
+"540","JORR","Utama",NA,0.887383799634147,"February 2020",6904981,2020-02-29,"26",1779597,9000,0,1,"X19",15000,592,1,0,0,0,1
+"541","Seksi W2","Seksi","Kembangan//Pesanggrahan//Cengkareng",0.971589006295137,"February 2020",2655690,2020-02-29,"26",1779597,9000,0,1,"X20",15000,593,1,0,0,0,0
+"542","Seksi S","Seksi","Kebayoran Lama//Jagakarsa//Cilandak//Pasar Minggu//Pesanggrahan//Pasar Rebo//Ciracas",0.939113033953954,"February 2020",4802686,2020-02-29,"26",1779597,9000,0,1,"X21",15000,594,1,0,0,0,1
+"543","Seksi E1","Seksi","Pondok Melati//Jatiasih//Bekasi Selatan",0.807331384607543,"February 2020",2508899,2020-02-29,"26",1779597,9000,0,1,"X22",15000,595,1,0,0,0,0
+"544","Seksi E2","Seksi","Bekasi Barat//Cakung//Cilincing",0.877173204754621,"February 2020",1428834,2020-02-29,"26",1779597,9000,0,1,"X23",15000,596,1,0,0,0,0
+"545","Seksi E3","Seksi","Cakung//Cilincing",0.466393607345187,"February 2020",56903,2020-02-29,"26",1779597,9000,0,1,"X24",15000,597,1,0,0,0,0
+"546","Ulujami – Pondok Aren","Seksi","Serpong//Ciputat//Pondok Aren",0.989144647819015,"February 2020",254655,2020-02-29,"26",1779597,9000,0,1,"X25",7000,598,1,0,0,0,0
+"547","Jagorawi","Utama","Kramat Jati// Cipayung// Ciracas//Makasar//Cimanggis",0.924708312168135,"March 2020",10030769,2020-03-31,"27",1852526,9000,1,1,"X1",7000,599,0,0,0,0,0
+"548","Ramp TMII & Dukuh","Seksi","Kramat Jati// Makasar",0.974476055438646,"March 2020",1718626,2020-03-31,"27",1852526,9000,1,1,"X4",7000,600,0,0,0,0,0
+"549","Ramp Cibubur","Seksi","Cipayung//Ciracas//Cimanggis",0.937565580954413,"March 2020",1543967,2020-03-31,"27",1852526,9000,1,1,"X5",7000,601,0,0,0,0,0
+"550","Cawang - Cimanggis","Seksi","Cimanggis",0.907163271626811,"March 2020",6768176,2020-03-31,"27",1852526,9000,1,1,"X6",7000,602,0,0,0,0,0
+"551","Japek","Utama","Bekasi Barat//Pondok Gede//Bekasi Timur//Tambun Selatan//Cibitung//Bekasi Selatan",0.802570510097598,"March 2020",11732344,2020-03-31,"27",1852526,9000,1,1,"X7",3000,603,0,0,0,0,0
+"552","Ramp PGT & PGB","Seksi","Pondok Gede",0.9792717617727,"March 2020",1913882,2020-03-31,"27",1852526,9000,1,1,"X10",1500,604,0,0,0,0,0
+"553","Ramp Cawang-Cikarang","Seksi","Bekasi Barat//Bekasi Timur//Tambun Selatan//Cibitung//Bekasi Selatan",0.787840520191094,"March 2020",3547599,2020-03-31,"27",1852526,9000,1,1,"X11",4500,605,0,0,0,0,0
+"554","Jakarta-Tangerang","Utama","Tanjung Duren//Kebon Jeruk//Kembangan//Karang Tengah//",0.880693561024901,"March 2020",9573817,2020-03-31,"27",1852526,9000,1,1,"X13",7500,607,0,0,0,0,0
+"555","Jakarta-Tangerang","Seksi","Tanjung Duren//Kebon Jeruk//Kembangan//Karang Tengah//",0.880693561024901,"March 2020",9573817,2020-03-31,"27",1852526,9000,1,1,"X13",7500,609,0,0,0,0,0
+"556","Lingkar Dalam & Sedyatmo","NON",NA,0.933530437720865,"March 2020",18166067,2020-03-31,"27",1852526,9000,1,1,"X14",10000,610,0,0,0,0,0
+"557","Dalam Kota Jakarta","Utama",NA,0.936019156888263,"March 2020",13435531,2020-03-31,"27",1852526,9000,1,1,"X15",10000,611,0,0,0,0,0
+"558","Cawang-Tomang-Pluit","Seksi","Jatinegara//Setiabudi//Pancoran//Kebayoran Baru//Tanah Abang//Palmerah//Grogol Petamburan//Tambora//Penjaringan",0.957217930477783,"March 2020",7735706,2020-03-31,"27",1852526,9000,1,1,"X16",10000,612,0,0,0,0,0
+"559","Cawang-Tj.Priok-Pluit","Seksi","Jatinegara//Pulo Gadung//Cempaka Putih//Pademangan//Penjaringan",0.908716760650925,"March 2020",5699825,2020-03-31,"27",1852526,9000,1,1,"X17",10000,613,0,0,0,0,0
+"560","Sedyatmo","Utama","Kalideres//Penjaringan",0.927166437543253,"March 2020",4730536,2020-03-31,"27",1852526,9000,1,1,"X18",7500,614,0,0,0,0,0
+"561","JORR","Utama",NA,0.887383799634147,"March 2020",5718925,2020-03-31,"27",1852526,9000,1,1,"X19",15000,615,1,0,0,0,1
+"562","Seksi W2","Seksi","Kembangan//Pesanggrahan//Cengkareng",0.971589006295137,"March 2020",2024592,2020-03-31,"27",1852526,9000,1,1,"X20",15000,616,1,0,0,0,0
+"563","Seksi S","Seksi","Kebayoran Lama//Jagakarsa//Cilandak//Pasar Minggu//Pesanggrahan//Pasar Rebo//Ciracas",0.939113033953954,"March 2020",3756161,2020-03-31,"27",1852526,9000,1,1,"X21",15000,617,1,0,0,0,1
+"564","Seksi E1","Seksi","Pondok Melati//Jatiasih//Bekasi Selatan",0.807331384607543,"March 2020",2214915,2020-03-31,"27",1852526,9000,1,1,"X22",15000,618,1,0,0,0,0
+"565","Seksi E2","Seksi","Bekasi Barat//Cakung//Cilincing",0.877173204754621,"March 2020",1232727,2020-03-31,"27",1852526,9000,1,1,"X23",15000,619,1,0,0,0,0
+"566","Seksi E3","Seksi","Cakung//Cilincing",0.466393607345187,"March 2020",60774,2020-03-31,"27",1852526,9000,1,1,"X24",15000,620,1,0,0,0,0
+"567","Ulujami – Pondok Aren","Seksi","Serpong//Ciputat//Pondok Aren",0.989144647819015,"March 2020",185917,2020-03-31,"27",1852526,9000,1,1,"X25",7000,621,1,0,0,0,0
+"568","Jagorawi","Utama","Kramat Jati// Cipayung// Ciracas//Makasar//Cimanggis",0.924708312168135,"April 2020",5992650,2020-04-30,"28",1920535,9000,1,1,"X1",7000,622,0,0,0,0,0
+"569","Ramp TMII & Dukuh","Seksi","Kramat Jati// Makasar",0.974476055438646,"April 2020",885845,2020-04-30,"28",1920535,9000,1,1,"X4",7000,623,0,0,0,0,0
+"570","Ramp Cibubur","Seksi","Cipayung//Ciracas//Cimanggis",0.937565580954413,"April 2020",1011102,2020-04-30,"28",1920535,9000,1,1,"X5",7000,624,0,0,0,0,0
+"571","Cawang - Cimanggis","Seksi","Cimanggis",0.907163271626811,"April 2020",4095703,2020-04-30,"28",1920535,9000,1,1,"X6",7000,625,0,0,0,0,0
+"572","Japek","Utama","Bekasi Barat//Pondok Gede//Bekasi Timur//Tambun Selatan//Cibitung//Bekasi Selatan",0.802570510097598,"April 2020",7532425,2020-04-30,"28",1920535,9000,1,1,"X7",3000,626,0,0,0,0,0
+"573","Ramp PGT & PGB","Seksi","Pondok Gede",0.9792717617727,"April 2020",1254058,2020-04-30,"28",1920535,9000,1,1,"X10",1500,627,0,0,0,0,0
+"574","Ramp Cawang-Cikarang","Seksi","Bekasi Barat//Bekasi Timur//Tambun Selatan//Cibitung//Bekasi Selatan",0.787840520191094,"April 2020",2037455,2020-04-30,"28",1920535,9000,1,1,"X11",4500,628,0,0,0,0,0
+"575","Jakarta-Tangerang","Utama","Tanjung Duren//Kebon Jeruk//Kembangan//Karang Tengah//",0.880693561024901,"April 2020",5945844,2020-04-30,"28",1920535,9000,1,1,"X13",7500,630,0,0,0,0,0
+"576","Jakarta-Tangerang","Seksi","Tanjung Duren//Kebon Jeruk//Kembangan//Karang Tengah//",0.880693561024901,"April 2020",5945844,2020-04-30,"28",1920535,9000,1,1,"X13",7500,632,0,0,0,0,0
+"577","Lingkar Dalam & Sedyatmo","NON",NA,0.933530437720865,"April 2020",8925788,2020-04-30,"28",1920535,9000,1,1,"X14",10000,633,0,0,0,0,0
+"578","Dalam Kota Jakarta","Utama",NA,0.936019156888263,"April 2020",7004638,2020-04-30,"28",1920535,9000,1,1,"X15",10000,634,0,0,0,0,0
+"579","Cawang-Tomang-Pluit","Seksi","Jatinegara//Setiabudi//Pancoran//Kebayoran Baru//Tanah Abang//Palmerah//Grogol Petamburan//Tambora//Penjaringan",0.957217930477783,"April 2020",4178470,2020-04-30,"28",1920535,9000,1,1,"X16",10000,635,0,0,0,0,0
+"580","Cawang-Tj.Priok-Pluit","Seksi","Jatinegara//Pulo Gadung//Cempaka Putih//Pademangan//Penjaringan",0.908716760650925,"April 2020",2826168,2020-04-30,"28",1920535,9000,1,1,"X17",10000,636,0,0,0,0,0
+"581","Sedyatmo","Utama","Kalideres//Penjaringan",0.927166437543253,"April 2020",1921150,2020-04-30,"28",1920535,9000,1,1,"X18",7500,637,0,0,0,0,0
+"582","JORR","Utama",NA,0.887383799634147,"April 2020",3180374,2020-04-30,"28",1920535,9000,1,1,"X19",15000,638,1,0,0,0,1
+"583","Seksi W2","Seksi","Kembangan//Pesanggrahan//Cengkareng",0.971589006295137,"April 2020",953458,2020-04-30,"28",1920535,9000,1,1,"X20",15000,639,1,0,0,0,0
+"584","Seksi S","Seksi","Kebayoran Lama//Jagakarsa//Cilandak//Pasar Minggu//Pesanggrahan//Pasar Rebo//Ciracas",0.939113033953954,"April 2020",1871255,2020-04-30,"28",1920535,9000,1,1,"X21",15000,640,1,0,0,0,1
+"585","Seksi E1","Seksi","Pondok Melati//Jatiasih//Bekasi Selatan",0.807331384607543,"April 2020",1442082,2020-04-30,"28",1920535,9000,1,1,"X22",15000,641,1,0,0,0,0
+"586","Seksi E2","Seksi","Bekasi Barat//Cakung//Cilincing",0.877173204754621,"April 2020",652446,2020-04-30,"28",1920535,9000,1,1,"X23",15000,642,1,0,0,0,0
+"587","Seksi E3","Seksi","Cakung//Cilincing",0.466393607345187,"April 2020",48901,2020-04-30,"28",1920535,9000,1,1,"X24",15000,643,1,0,0,0,0
+"588","Ulujami – Pondok Aren","Seksi","Serpong//Ciputat//Pondok Aren",0.989144647819015,"April 2020",83487,2020-04-30,"28",1920535,9000,1,1,"X25",7000,644,1,0,0,0,0
+"589","Jagorawi","Utama","Kramat Jati// Cipayung// Ciracas//Makasar//Cimanggis",0.924708312168135,"May 2020",6932703,2020-05-31,"29",1987766,9000,1,1,"X1",7000,645,0,0,1,0,0
+"590","Ramp TMII & Dukuh","Seksi","Kramat Jati// Makasar",0.974476055438646,"May 2020",1037876,2020-05-31,"29",1987766,9000,1,1,"X4",7000,646,0,0,1,0,0
+"591","Ramp Cibubur","Seksi","Cipayung//Ciracas//Cimanggis",0.937565580954413,"May 2020",1173664,2020-05-31,"29",1987766,9000,1,1,"X5",7000,647,0,0,1,0,0
+"592","Cawang - Cimanggis","Seksi","Cimanggis",0.907163271626811,"May 2020",4721163,2020-05-31,"29",1987766,9000,1,1,"X6",7000,648,0,0,1,0,0
+"593","Japek","Utama","Bekasi Barat//Pondok Gede//Bekasi Timur//Tambun Selatan//Cibitung//Bekasi Selatan",0.802570510097598,"May 2020",7059569,2020-05-31,"29",1987766,9000,1,1,"X7",3000,649,0,0,1,0,0
+"594","Ramp PGT & PGB","Seksi","Pondok Gede",0.9792717617727,"May 2020",893434,2020-05-31,"29",1987766,9000,1,1,"X10",1500,650,0,0,1,0,0
+"595","Ramp Cawang-Cikarang","Seksi","Bekasi Barat//Bekasi Timur//Tambun Selatan//Cibitung//Bekasi Selatan",0.787840520191094,"May 2020",1617637,2020-05-31,"29",1987766,9000,1,1,"X11",4500,651,0,0,1,0,0
+"596","Jakarta-Tangerang","Utama","Tanjung Duren//Kebon Jeruk//Kembangan//Karang Tengah//",0.880693561024901,"May 2020",5928346,2020-05-31,"29",1987766,9000,1,1,"X13",7500,653,0,0,1,0,0
+"597","Jakarta-Tangerang","Seksi","Tanjung Duren//Kebon Jeruk//Kembangan//Karang Tengah//",0.880693561024901,"May 2020",5928346,2020-05-31,"29",1987766,9000,1,1,"X13",7500,655,0,0,1,0,0
+"598","Lingkar Dalam & Sedyatmo","NON",NA,0.933530437720865,"May 2020",9002330,2020-05-31,"29",1987766,9000,1,1,"X14",10000,656,0,0,1,0,0
+"599","Dalam Kota Jakarta","Utama",NA,0.936019156888263,"May 2020",7311770,2020-05-31,"29",1987766,9000,1,1,"X15",10000,657,0,0,1,0,0
+"600","Cawang-Tomang-Pluit","Seksi","Jatinegara//Setiabudi//Pancoran//Kebayoran Baru//Tanah Abang//Palmerah//Grogol Petamburan//Tambora//Penjaringan",0.957217930477783,"May 2020",4482789,2020-05-31,"29",1987766,9000,1,1,"X16",10000,658,0,0,1,0,0
+"601","Cawang-Tj.Priok-Pluit","Seksi","Jatinegara//Pulo Gadung//Cempaka Putih//Pademangan//Penjaringan",0.908716760650925,"May 2020",2828981,2020-05-31,"29",1987766,9000,1,1,"X17",10000,659,0,0,1,0,0
+"602","Sedyatmo","Utama","Kalideres//Penjaringan",0.927166437543253,"May 2020",1690560,2020-05-31,"29",1987766,9000,1,1,"X18",7500,660,0,0,1,0,0
+"603","JORR","Utama",NA,0.887383799634147,"May 2020",3457357,2020-05-31,"29",1987766,9000,1,1,"X19",15000,661,1,0,1,0,1
+"604","Seksi W2","Seksi","Kembangan//Pesanggrahan//Cengkareng",0.971589006295137,"May 2020",1151333,2020-05-31,"29",1987766,9000,1,1,"X20",15000,662,1,0,1,0,0
+"605","Seksi S","Seksi","Kebayoran Lama//Jagakarsa//Cilandak//Pasar Minggu//Pesanggrahan//Pasar Rebo//Ciracas",0.939113033953954,"May 2020",2238250,2020-05-31,"29",1987766,9000,1,1,"X21",15000,663,1,0,1,0,1
+"606","Seksi E1","Seksi","Pondok Melati//Jatiasih//Bekasi Selatan",0.807331384607543,"May 2020",1557525,2020-05-31,"29",1987766,9000,1,1,"X22",15000,664,1,0,1,0,0
+"607","Seksi E2","Seksi","Bekasi Barat//Cakung//Cilincing",0.877173204754621,"May 2020",599720,2020-05-31,"29",1987766,9000,1,1,"X23",15000,665,1,0,1,0,0
+"608","Seksi E3","Seksi","Cakung//Cilincing",0.466393607345187,"May 2020",40230,2020-05-31,"29",1987766,9000,1,1,"X24",15000,666,1,0,1,0,0
+"609","Ulujami – Pondok Aren","Seksi","Serpong//Ciputat//Pondok Aren",0.989144647819015,"May 2020",108549,2020-05-31,"29",1987766,9000,1,1,"X25",7000,667,1,0,1,0,0
+"610","Jagorawi","Utama","Kramat Jati// Cipayung// Ciracas//Makasar//Cimanggis",0.924708312168135,"June 2020",9681065,2020-06-30,"30",2031509,9000,1,1,"X1",7000,668,0,0,0,0,0
+"611","Ramp TMII & Dukuh","Seksi","Kramat Jati// Makasar",0.974476055438646,"June 2020",1465619,2020-06-30,"30",2031509,9000,1,1,"X4",7000,669,0,0,0,0,0
+"612","Ramp Cibubur","Seksi","Cipayung//Ciracas//Cimanggis",0.937565580954413,"June 2020",1536517,2020-06-30,"30",2031509,9000,1,1,"X5",7000,670,0,0,0,0,0
+"613","Cawang - Cimanggis","Seksi","Cimanggis",0.907163271626811,"June 2020",6678929,2020-06-30,"30",2031509,9000,1,1,"X6",7000,671,0,0,0,0,0
+"614","Japek","Utama","Bekasi Barat//Pondok Gede//Bekasi Timur//Tambun Selatan//Cibitung//Bekasi Selatan",0.802570510097598,"June 2020",10435511,2020-06-30,"30",2031509,9000,1,1,"X7",3000,672,0,0,0,0,0
+"615","Ramp PGT & PGB","Seksi","Pondok Gede",0.9792717617727,"June 2020",1466308,2020-06-30,"30",2031509,9000,1,1,"X10",1500,673,0,0,0,0,0
+"616","Ramp Cawang-Cikarang","Seksi","Bekasi Barat//Bekasi Timur//Tambun Selatan//Cibitung//Bekasi Selatan",0.787840520191094,"June 2020",2941968,2020-06-30,"30",2031509,9000,1,1,"X11",4500,674,0,0,0,0,0
+"617","Jakarta-Tangerang","Utama","Tanjung Duren//Kebon Jeruk//Kembangan//Karang Tengah//",0.880693561024901,"June 2020",8452776,2020-06-30,"30",2031509,9000,1,1,"X13",7500,676,0,0,0,0,0
+"618","Jakarta-Tangerang","Seksi","Tanjung Duren//Kebon Jeruk//Kembangan//Karang Tengah//",0.880693561024901,"June 2020",8452776,2020-06-30,"30",2031509,9000,1,1,"X13",7500,678,0,0,0,0,0
+"619","Lingkar Dalam & Sedyatmo","NON",NA,0.933530437720865,"June 2020",14036633,2020-06-30,"30",2031509,9000,1,1,"X14",10000,679,0,0,0,0,0
+"620","Dalam Kota Jakarta","Utama",NA,0.936019156888263,"June 2020",11212869,2020-06-30,"30",2031509,9000,1,1,"X15",10000,680,0,0,0,0,0
+"621","Cawang-Tomang-Pluit","Seksi","Jatinegara//Setiabudi//Pancoran//Kebayoran Baru//Tanah Abang//Palmerah//Grogol Petamburan//Tambora//Penjaringan",0.957217930477783,"June 2020",6784321,2020-06-30,"30",2031509,9000,1,1,"X16",10000,681,0,0,0,0,0
+"622","Cawang-Tj.Priok-Pluit","Seksi","Jatinegara//Pulo Gadung//Cempaka Putih//Pademangan//Penjaringan",0.908716760650925,"June 2020",4428548,2020-06-30,"30",2031509,9000,1,1,"X17",10000,682,0,0,0,0,0
+"623","Sedyatmo","Utama","Kalideres//Penjaringan",0.927166437543253,"June 2020",2823764,2020-06-30,"30",2031509,9000,1,1,"X18",7500,683,0,0,0,0,0
+"624","JORR","Utama",NA,0.887383799634147,"June 2020",5067135,2020-06-30,"30",2031509,9000,1,1,"X19",15000,684,1,0,0,0,1
+"625","Seksi W2","Seksi","Kembangan//Pesanggrahan//Cengkareng",0.971589006295137,"June 2020",1713310,2020-06-30,"30",2031509,9000,1,1,"X20",15000,685,1,0,0,0,0
+"626","Seksi S","Seksi","Kebayoran Lama//Jagakarsa//Cilandak//Pasar Minggu//Pesanggrahan//Pasar Rebo//Ciracas",0.939113033953954,"June 2020",3290661,2020-06-30,"30",2031509,9000,1,1,"X21",15000,686,1,0,0,0,1
+"627","Seksi E1","Seksi","Pondok Melati//Jatiasih//Bekasi Selatan",0.807331384607543,"June 2020",2117716,2020-06-30,"30",2031509,9000,1,1,"X22",15000,687,1,0,0,0,0
+"628","Seksi E2","Seksi","Bekasi Barat//Cakung//Cilincing",0.877173204754621,"June 2020",1035992,2020-06-30,"30",2031509,9000,1,1,"X23",15000,688,1,0,0,0,0
+"629","Seksi E3","Seksi","Cakung//Cilincing",0.466393607345187,"June 2020",53649,2020-06-30,"30",2031509,9000,1,1,"X24",15000,689,1,0,0,0,0
+"630","Ulujami – Pondok Aren","Seksi","Serpong//Ciputat//Pondok Aren",0.989144647819015,"June 2020",146468,2020-06-30,"30",2031509,9000,1,1,"X25",7000,690,1,0,0,0,0
+"631","Jagorawi","Utama","Kramat Jati// Cipayung// Ciracas//Makasar//Cimanggis",0.924708312168135,"July 2020",11144212,2020-07-31,"31",2100166,9000,1,1,"X1",7000,691,0,0,0,0,0
+"632","Ramp TMII & Dukuh","Seksi","Kramat Jati// Makasar",0.974476055438646,"July 2020",1694573,2020-07-31,"31",2100166,9000,1,1,"X4",7000,692,0,0,0,0,0
+"633","Ramp Cibubur","Seksi","Cipayung//Ciracas//Cimanggis",0.937565580954413,"July 2020",1753590,2020-07-31,"31",2100166,9000,1,1,"X5",7000,693,0,0,0,0,0
+"634","Cawang - Cimanggis","Seksi","Cimanggis",0.907163271626811,"July 2020",7696049,2020-07-31,"31",2100166,9000,1,1,"X6",7000,694,0,0,0,0,0
+"635","Japek","Utama","Bekasi Barat//Pondok Gede//Bekasi Timur//Tambun Selatan//Cibitung//Bekasi Selatan",0.802570510097598,"July 2020",12452867,2020-07-31,"31",2100166,9000,1,1,"X7",3000,695,0,0,0,0,0
+"636","Ramp PGT & PGB","Seksi","Pondok Gede",0.9792717617727,"July 2020",1741670,2020-07-31,"31",2100166,9000,1,1,"X10",1500,696,0,0,0,0,0
+"637","Ramp Cawang-Cikarang","Seksi","Bekasi Barat//Bekasi Timur//Tambun Selatan//Cibitung//Bekasi Selatan",0.787840520191094,"July 2020",3859100,2020-07-31,"31",2100166,9000,1,1,"X11",4500,697,0,0,0,0,0
+"638","Jakarta-Tangerang","Utama","Tanjung Duren//Kebon Jeruk//Kembangan//Karang Tengah//",0.880693561024901,"July 2020",9919051,2020-07-31,"31",2100166,9000,1,1,"X13",7500,699,0,0,0,0,0
+"639","Jakarta-Tangerang","Seksi","Tanjung Duren//Kebon Jeruk//Kembangan//Karang Tengah//",0.880693561024901,"July 2020",9919051,2020-07-31,"31",2100166,9000,1,1,"X13",7500,701,0,0,0,0,0
+"640","Lingkar Dalam & Sedyatmo","NON",NA,0.933530437720865,"July 2020",17067028,2020-07-31,"31",2100166,9000,1,1,"X14",10000,702,0,0,0,0,0
+"641","Dalam Kota Jakarta","Utama",NA,0.936019156888263,"July 2020",13471992,2020-07-31,"31",2100166,9000,1,1,"X15",10000,703,0,0,0,0,0
+"642","Cawang-Tomang-Pluit","Seksi","Jatinegara//Setiabudi//Pancoran//Kebayoran Baru//Tanah Abang//Palmerah//Grogol Petamburan//Tambora//Penjaringan",0.957217930477783,"July 2020",8111237,2020-07-31,"31",2100166,9000,1,1,"X16",10000,704,0,0,0,0,0
+"643","Cawang-Tj.Priok-Pluit","Seksi","Jatinegara//Pulo Gadung//Cempaka Putih//Pademangan//Penjaringan",0.908716760650925,"July 2020",5360755,2020-07-31,"31",2100166,9000,1,1,"X17",10000,705,0,0,0,0,0
+"644","Sedyatmo","Utama","Kalideres//Penjaringan",0.927166437543253,"July 2020",3595036,2020-07-31,"31",2100166,9000,1,1,"X18",7500,706,0,0,0,0,0
+"645","JORR","Utama",NA,0.887383799634147,"July 2020",6046764,2020-07-31,"31",2100166,9000,1,1,"X19",15000,707,1,0,0,0,1
+"646","Seksi W2","Seksi","Kembangan//Pesanggrahan//Cengkareng",0.971589006295137,"July 2020",2078595,2020-07-31,"31",2100166,9000,1,1,"X20",15000,708,1,0,0,0,0
+"647","Seksi S","Seksi","Kebayoran Lama//Jagakarsa//Cilandak//Pasar Minggu//Pesanggrahan//Pasar Rebo//Ciracas",0.939113033953954,"July 2020",3978140,2020-07-31,"31",2100166,9000,1,1,"X21",15000,709,1,0,0,0,1
+"648","Seksi E1","Seksi","Pondok Melati//Jatiasih//Bekasi Selatan",0.807331384607543,"July 2020",2726121,2020-07-31,"31",2100166,9000,1,1,"X22",15000,710,1,0,0,0,0
+"649","Seksi E2","Seksi","Bekasi Barat//Cakung//Cilincing",0.877173204754621,"July 2020",1008647,2020-07-31,"31",2100166,9000,1,1,"X23",15000,711,1,0,0,0,0
+"650","Seksi E3","Seksi","Cakung//Cilincing",0.466393607345187,"July 2020",59686,2020-07-31,"31",2100166,9000,1,1,"X24",15000,712,1,0,0,0,0
+"651","Ulujami – Pondok Aren","Seksi","Serpong//Ciputat//Pondok Aren",0.989144647819015,"July 2020",173715,2020-07-31,"31",2100166,9000,1,1,"X25",7000,713,1,0,0,0,0
+"652","Jagorawi","Utama","Kramat Jati// Cipayung// Ciracas//Makasar//Cimanggis",0.924708312168135,"August 2020",11184402,2020-08-31,"32",2168247,9000,1,1,"X1",7000,714,0,0,0,0,0
+"653","Ramp TMII & Dukuh","Seksi","Kramat Jati// Makasar",0.974476055438646,"August 2020",1586201,2020-08-31,"32",2168247,9000,1,1,"X4",7000,715,0,0,0,0,0
+"654","Ramp Cibubur","Seksi","Cipayung//Ciracas//Cimanggis",0.937565580954413,"August 2020",1724558,2020-08-31,"32",2168247,9000,1,1,"X5",7000,716,0,0,0,0,0
+"655","Cawang - Cimanggis","Seksi","Cimanggis",0.907163271626811,"August 2020",7873643,2020-08-31,"32",2168247,9000,1,1,"X6",7000,717,0,0,0,0,0
+"656","Japek","Utama","Bekasi Barat//Pondok Gede//Bekasi Timur//Tambun Selatan//Cibitung//Bekasi Selatan",0.802570510097598,"August 2020",12682386,2020-08-31,"32",2168247,9000,1,1,"X7",3000,718,0,0,0,0,0
+"657","Ramp PGT & PGB","Seksi","Pondok Gede",0.9792717617727,"August 2020",1744501,2020-08-31,"32",2168247,9000,1,1,"X10",1500,719,0,0,0,0,0
+"658","Ramp Cawang-Cikarang","Seksi","Bekasi Barat//Bekasi Timur//Tambun Selatan//Cibitung//Bekasi Selatan",0.787840520191094,"August 2020",4297280,2020-08-31,"32",2168247,9000,1,1,"X11",4500,720,0,0,0,0,0
+"659","Jakarta-Tangerang","Utama","Tanjung Duren//Kebon Jeruk//Kembangan//Karang Tengah//",0.880693561024901,"August 2020",9917961,2020-08-31,"32",2168247,9000,1,1,"X13",7500,722,0,0,0,0,0
+"660","Jakarta-Tangerang","Seksi","Tanjung Duren//Kebon Jeruk//Kembangan//Karang Tengah//",0.880693561024901,"August 2020",9917961,2020-08-31,"32",2168247,9000,1,1,"X13",7500,724,0,0,0,0,0
+"661","Lingkar Dalam & Sedyatmo","NON",NA,0.933530437720865,"August 2020",16843143,2020-08-31,"32",2168247,9000,1,1,"X14",10000,725,0,0,0,0,0
+"662","Dalam Kota Jakarta","Utama",NA,0.936019156888263,"August 2020",13093449,2020-08-31,"32",2168247,9000,1,1,"X15",10000,726,0,0,0,0,0
+"663","Cawang-Tomang-Pluit","Seksi","Jatinegara//Setiabudi//Pancoran//Kebayoran Baru//Tanah Abang//Palmerah//Grogol Petamburan//Tambora//Penjaringan",0.957217930477783,"August 2020",7887992,2020-08-31,"32",2168247,9000,1,1,"X16",10000,727,0,0,0,0,0
+"664","Cawang-Tj.Priok-Pluit","Seksi","Jatinegara//Pulo Gadung//Cempaka Putih//Pademangan//Penjaringan",0.908716760650925,"August 2020",5205457,2020-08-31,"32",2168247,9000,1,1,"X17",10000,728,0,0,0,0,0
+"665","Sedyatmo","Utama","Kalideres//Penjaringan",0.927166437543253,"August 2020",3749694,2020-08-31,"32",2168247,9000,1,1,"X18",7500,729,0,0,0,0,0
+"666","JORR","Utama",NA,0.887383799634147,"August 2020",6105970,2020-08-31,"32",2168247,9000,1,1,"X19",15000,730,1,0,0,0,1
+"667","Seksi W2","Seksi","Kembangan//Pesanggrahan//Cengkareng",0.971589006295137,"August 2020",2030496,2020-08-31,"32",2168247,9000,1,1,"X20",15000,731,1,0,0,0,0
+"668","Seksi S","Seksi","Kebayoran Lama//Jagakarsa//Cilandak//Pasar Minggu//Pesanggrahan//Pasar Rebo//Ciracas",0.939113033953954,"August 2020",3980016,2020-08-31,"32",2168247,9000,1,1,"X21",15000,732,1,0,0,0,1
+"669","Seksi E1","Seksi","Pondok Melati//Jatiasih//Bekasi Selatan",0.807331384607543,"August 2020",2807037,2020-08-31,"32",2168247,9000,1,1,"X22",15000,733,1,0,0,0,0
+"670","Seksi E2","Seksi","Bekasi Barat//Cakung//Cilincing",0.877173204754621,"August 2020",1040536,2020-08-31,"32",2168247,9000,1,1,"X23",15000,734,1,0,0,0,0
+"671","Seksi E3","Seksi","Cakung//Cilincing",0.466393607345187,"August 2020",53958,2020-08-31,"32",2168247,9000,1,1,"X24",15000,735,1,0,0,0,0
+"672","Ulujami – Pondok Aren","Seksi","Serpong//Ciputat//Pondok Aren",0.989144647819015,"August 2020",173943,2020-08-31,"32",2168247,9000,1,1,"X25",7000,736,1,0,0,0,0
+"673","Jagorawi","Utama","Kramat Jati// Cipayung// Ciracas//Makasar//Cimanggis",0.924708312168135,"September 2020",10145234,2020-09-30,"33",2239247,9000,1,1,"X1",7000,737,0,0,0,0,0
+"674","Ramp TMII & Dukuh","Seksi","Kramat Jati// Makasar",0.974476055438646,"September 2020",1473374,2020-09-30,"33",2239247,9000,1,1,"X4",7000,738,0,0,0,0,0
+"675","Ramp Cibubur","Seksi","Cipayung//Ciracas//Cimanggis",0.937565580954413,"September 2020",1617166,2020-09-30,"33",2239247,9000,1,1,"X5",7000,739,0,0,0,0,0
+"676","Cawang - Cimanggis","Seksi","Cimanggis",0.907163271626811,"September 2020",7054694,2020-09-30,"33",2239247,9000,1,1,"X6",7000,740,0,0,0,0,0
+"677","Japek","Utama","Bekasi Barat//Pondok Gede//Bekasi Timur//Tambun Selatan//Cibitung//Bekasi Selatan",0.802570510097598,"September 2020",11815147,2020-09-30,"33",2239247,9000,1,1,"X7",3000,741,0,0,0,0,0
+"678","Ramp PGT & PGB","Seksi","Pondok Gede",0.9792717617727,"September 2020",1811794,2020-09-30,"33",2239247,9000,1,1,"X10",1500,742,0,0,0,0,0
+"679","Ramp Cawang-Cikarang","Seksi","Bekasi Barat//Bekasi Timur//Tambun Selatan//Cibitung//Bekasi Selatan",0.787840520191094,"September 2020",3554591,2020-09-30,"33",2239247,9000,1,1,"X11",4500,743,0,0,0,0,0
+"680","Jakarta-Tangerang","Utama","Tanjung Duren//Kebon Jeruk//Kembangan//Karang Tengah//",0.880693561024901,"September 2020",9393077,2020-09-30,"33",2239247,9000,1,1,"X13",7500,745,0,0,0,0,0
+"681","Jakarta-Tangerang","Seksi","Tanjung Duren//Kebon Jeruk//Kembangan//Karang Tengah//",0.880693561024901,"September 2020",9393077,2020-09-30,"33",2239247,9000,1,1,"X13",7500,747,0,0,0,0,0
+"682","Lingkar Dalam & Sedyatmo","NON",NA,0.933530437720865,"September 2020",15650004,2020-09-30,"33",2239247,9000,1,1,"X14",10000,748,0,0,0,0,0
+"683","Dalam Kota Jakarta","Utama",NA,0.936019156888263,"September 2020",12080359,2020-09-30,"33",2239247,9000,1,1,"X15",10000,749,0,0,0,0,0
+"684","Cawang-Tomang-Pluit","Seksi","Jatinegara//Setiabudi//Pancoran//Kebayoran Baru//Tanah Abang//Palmerah//Grogol Petamburan//Tambora//Penjaringan",0.957217930477783,"September 2020",7188086,2020-09-30,"33",2239247,9000,1,1,"X16",10000,750,0,0,0,0,0
+"685","Cawang-Tj.Priok-Pluit","Seksi","Jatinegara//Pulo Gadung//Cempaka Putih//Pademangan//Penjaringan",0.908716760650925,"September 2020",4892273,2020-09-30,"33",2239247,9000,1,1,"X17",10000,751,0,0,0,0,0
+"686","Sedyatmo","Utama","Kalideres//Penjaringan",0.927166437543253,"September 2020",3569645,2020-09-30,"33",2239247,9000,1,1,"X18",7500,752,0,0,0,0,0
+"687","JORR","Utama",NA,0.887383799634147,"September 2020",5508670,2020-09-30,"33",2239247,9000,1,1,"X19",15000,753,1,0,0,0,1
+"688","Seksi W2","Seksi","Kembangan//Pesanggrahan//Cengkareng",0.971589006295137,"September 2020",1852041,2020-09-30,"33",2239247,9000,1,1,"X20",15000,754,1,0,0,0,0
+"689","Seksi S","Seksi","Kebayoran Lama//Jagakarsa//Cilandak//Pasar Minggu//Pesanggrahan//Pasar Rebo//Ciracas",0.939113033953954,"September 2020",3528149,2020-09-30,"33",2239247,9000,1,1,"X21",15000,755,1,0,0,0,1
+"690","Seksi E1","Seksi","Pondok Melati//Jatiasih//Bekasi Selatan",0.807331384607543,"September 2020",2504725,2020-09-30,"33",2239247,9000,1,1,"X22",15000,756,1,0,0,0,0
+"691","Seksi E2","Seksi","Bekasi Barat//Cakung//Cilincing",0.877173204754621,"September 2020",931457,2020-09-30,"33",2239247,9000,1,1,"X23",15000,757,1,0,0,0,0
+"692","Seksi E3","Seksi","Cakung//Cilincing",0.466393607345187,"September 2020",56092,2020-09-30,"33",2239247,9000,1,1,"X24",15000,758,1,0,0,0,0
+"693","Ulujami – Pondok Aren","Seksi","Serpong//Ciputat//Pondok Aren",0.989144647819015,"September 2020",164355,2020-09-30,"33",2239247,9000,1,1,"X25",7000,759,1,0,0,0,0
+"694","Jagorawi","Utama","Kramat Jati// Cipayung// Ciracas//Makasar//Cimanggis",0.924708312168135,"October 2020",11037044,2020-10-31,"34",2311576,9000,1,1,"X1",7000,760,0,0,0,0,0
+"695","Ramp TMII & Dukuh","Seksi","Kramat Jati// Makasar",0.974476055438646,"October 2020",1538534,2020-10-31,"34",2311576,9000,1,1,"X4",7000,761,0,0,0,0,0
+"696","Ramp Cibubur","Seksi","Cipayung//Ciracas//Cimanggis",0.937565580954413,"October 2020",1682820,2020-10-31,"34",2311576,9000,1,1,"X5",7000,762,0,0,0,0,0
+"697","Cawang - Cimanggis","Seksi","Cimanggis",0.907163271626811,"October 2020",7815690,2020-10-31,"34",2311576,9000,1,1,"X6",7000,763,0,0,0,0,0
+"698","Japek","Utama","Bekasi Barat//Pondok Gede//Bekasi Timur//Tambun Selatan//Cibitung//Bekasi Selatan",0.802570510097598,"October 2020",12676479,2020-10-31,"34",2311576,9000,1,1,"X7",3000,764,0,0,0,0,0
+"699","Ramp PGT & PGB","Seksi","Pondok Gede",0.9792717617727,"October 2020",1880246,2020-10-31,"34",2311576,9000,1,1,"X10",1500,765,0,0,0,0,0
+"700","Ramp Cawang-Cikarang","Seksi","Bekasi Barat//Bekasi Timur//Tambun Selatan//Cibitung//Bekasi Selatan",0.787840520191094,"October 2020",4030258,2020-10-31,"34",2311576,9000,1,1,"X11",4500,766,0,0,0,0,0
+"701","Jakarta-Tangerang","Utama","Tanjung Duren//Kebon Jeruk//Kembangan//Karang Tengah//",0.880693561024901,"October 2020",9862366,2020-10-31,"34",2311576,9000,1,1,"X13",7500,768,0,0,0,0,0
+"702","Jakarta-Tangerang","Seksi","Tanjung Duren//Kebon Jeruk//Kembangan//Karang Tengah//",0.880693561024901,"October 2020",9862366,2020-10-31,"34",2311576,9000,1,1,"X13",7500,770,0,0,0,0,0
+"703","Lingkar Dalam & Sedyatmo","NON",NA,0.933530437720865,"October 2020",16773004,2020-10-31,"34",2311576,9000,1,1,"X14",10000,771,0,0,0,0,0
+"704","Dalam Kota Jakarta","Utama",NA,0.936019156888263,"October 2020",12915379,2020-10-31,"34",2311576,9000,1,1,"X15",10000,772,0,0,0,0,0
+"705","Cawang-Tomang-Pluit","Seksi","Jatinegara//Setiabudi//Pancoran//Kebayoran Baru//Tanah Abang//Palmerah//Grogol Petamburan//Tambora//Penjaringan",0.957217930477783,"October 2020",7715161,2020-10-31,"34",2311576,9000,1,1,"X16",10000,773,0,0,0,0,0
+"706","Cawang-Tj.Priok-Pluit","Seksi","Jatinegara//Pulo Gadung//Cempaka Putih//Pademangan//Penjaringan",0.908716760650925,"October 2020",5200218,2020-10-31,"34",2311576,9000,1,1,"X17",10000,774,0,0,0,0,0
+"707","Sedyatmo","Utama","Kalideres//Penjaringan",0.927166437543253,"October 2020",3857625,2020-10-31,"34",2311576,9000,1,1,"X18",7500,775,0,0,0,0,0
+"708","JORR","Utama",NA,0.887383799634147,"October 2020",5937659,2020-10-31,"34",2311576,9000,1,1,"X19",20000,776,1,0,0,0,1
+"709","Seksi W2","Seksi","Kembangan//Pesanggrahan//Cengkareng",0.971589006295137,"October 2020",2007446,2020-10-31,"34",2311576,9000,1,1,"X20",20000,777,1,0,0,0,0
+"710","Seksi S","Seksi","Kebayoran Lama//Jagakarsa//Cilandak//Pasar Minggu//Pesanggrahan//Pasar Rebo//Ciracas",0.939113033953954,"October 2020",3757551,2020-10-31,"34",2311576,9000,1,1,"X21",20000,778,1,0,0,0,1
+"711","Seksi E1","Seksi","Pondok Melati//Jatiasih//Bekasi Selatan",0.807331384607543,"October 2020",2707765,2020-10-31,"34",2311576,9000,1,1,"X22",20000,779,1,0,0,0,0
+"712","Seksi E2","Seksi","Bekasi Barat//Cakung//Cilincing",0.877173204754621,"October 2020",987219,2020-10-31,"34",2311576,9000,1,1,"X23",20000,780,1,0,0,0,0
+"713","Seksi E3","Seksi","Cakung//Cilincing",0.466393607345187,"October 2020",60327,2020-10-31,"34",2311576,9000,1,1,"X24",20000,781,1,0,0,0,0
+"714","Ulujami – Pondok Aren","Seksi","Serpong//Ciputat//Pondok Aren",0.989144647819015,"October 2020",174902,2020-10-31,"34",2311576,9000,1,1,"X25",7000,782,1,0,0,0,0
+"715","Jagorawi","Utama","Kramat Jati// Cipayung// Ciracas//Makasar//Cimanggis",0.924708312168135,"November 2020",11376244,2020-11-30,"35",2381477,9000,1,1,"X1",7000,783,0,0,0,0,0
+"716","Ramp TMII & Dukuh","Seksi","Kramat Jati// Makasar",0.974476055438646,"November 2020",1683356,2020-11-30,"35",2381477,9000,1,1,"X4",7000,784,0,0,0,0,0
+"717","Ramp Cibubur","Seksi","Cipayung//Ciracas//Cimanggis",0.937565580954413,"November 2020",1542193,2020-11-30,"35",2381477,9000,1,1,"X5",7000,785,0,0,0,0,0
+"718","Cawang - Cimanggis","Seksi","Cimanggis",0.907163271626811,"November 2020",8150695,2020-11-30,"35",2381477,9000,1,1,"X6",7000,786,0,0,0,0,0
+"719","Japek","Utama","Bekasi Barat//Pondok Gede//Bekasi Timur//Tambun Selatan//Cibitung//Bekasi Selatan",0.802570510097598,"November 2020",13141332,2020-11-30,"35",2381477,9000,1,1,"X7",3000,787,0,0,0,0,0
+"720","Ramp PGT & PGB","Seksi","Pondok Gede",0.9792717617727,"November 2020",1953625,2020-11-30,"35",2381477,9000,1,1,"X10",1500,788,0,0,0,0,0
+"721","Ramp Cawang-Cikarang","Seksi","Bekasi Barat//Bekasi Timur//Tambun Selatan//Cibitung//Bekasi Selatan",0.787840520191094,"November 2020",4088383,2020-11-30,"35",2381477,9000,1,1,"X11",4500,789,0,0,0,0,0
+"722","Jakarta-Tangerang","Utama","Tanjung Duren//Kebon Jeruk//Kembangan//Karang Tengah//",0.880693561024901,"November 2020",10207184,2020-11-30,"35",2381477,9000,1,1,"X13",7500,791,0,0,0,0,0
+"723","Jakarta-Tangerang","Seksi","Tanjung Duren//Kebon Jeruk//Kembangan//Karang Tengah//",0.880693561024901,"November 2020",10207184,2020-11-30,"35",2381477,9000,1,1,"X13",7500,793,0,0,0,0,0
+"724","Lingkar Dalam & Sedyatmo","NON",NA,0.933530437720865,"November 2020",18624156,2020-11-30,"35",2381477,9000,1,1,"X14",10000,794,0,0,0,0,0
+"725","Dalam Kota Jakarta","Utama",NA,0.936019156888263,"November 2020",14169503,2020-11-30,"35",2381477,9000,1,1,"X15",10000,795,0,0,0,0,0
+"726","Cawang-Tomang-Pluit","Seksi","Jatinegara//Setiabudi//Pancoran//Kebayoran Baru//Tanah Abang//Palmerah//Grogol Petamburan//Tambora//Penjaringan",0.957217930477783,"November 2020",8380390,2020-11-30,"35",2381477,9000,1,1,"X16",10000,796,0,0,0,0,0
+"727","Cawang-Tj.Priok-Pluit","Seksi","Jatinegara//Pulo Gadung//Cempaka Putih//Pademangan//Penjaringan",0.908716760650925,"November 2020",5789113,2020-11-30,"35",2381477,9000,1,1,"X17",10000,797,0,0,0,0,0
+"728","Sedyatmo","Utama","Kalideres//Penjaringan",0.927166437543253,"November 2020",4454653,2020-11-30,"35",2381477,9000,1,1,"X18",7500,798,0,0,0,0,0
+"729","JORR","Utama",NA,0.887383799634147,"November 2020",6208401,2020-11-30,"35",2381477,9000,1,1,"X19",20000,799,1,0,0,0,1
+"730","Seksi W2","Seksi","Kembangan//Pesanggrahan//Cengkareng",0.971589006295137,"November 2020",2104123,2020-11-30,"35",2381477,9000,1,1,"X20",20000,800,1,0,0,0,0
+"731","Seksi S","Seksi","Kebayoran Lama//Jagakarsa//Cilandak//Pasar Minggu//Pesanggrahan//Pasar Rebo//Ciracas",0.939113033953954,"November 2020",3956221,2020-11-30,"35",2381477,9000,1,1,"X21",20000,801,1,0,0,0,1
+"732","Seksi E1","Seksi","Pondok Melati//Jatiasih//Bekasi Selatan",0.807331384607543,"November 2020",2805474,2020-11-30,"35",2381477,9000,1,1,"X22",20000,802,1,0,0,0,0
+"733","Seksi E2","Seksi","Bekasi Barat//Cakung//Cilincing",0.877173204754621,"November 2020",1047717,2020-11-30,"35",2381477,9000,1,1,"X23",20000,803,1,0,0,0,0
+"734","Seksi E3","Seksi","Cakung//Cilincing",0.466393607345187,"November 2020",73697,2020-11-30,"35",2381477,9000,1,1,"X24",20000,804,1,0,0,0,0
+"735","Ulujami – Pondok Aren","Seksi","Serpong//Ciputat//Pondok Aren",0.989144647819015,"November 2020",177390,2020-11-30,"35",2381477,9000,1,1,"X25",7000,805,1,0,0,0,0
+"736","Jagorawi","Utama","Kramat Jati// Cipayung// Ciracas//Makasar//Cimanggis",0.924708312168135,"December 2020",11488532,2020-12-31,"36",2445755,9000,1,1,"X1",7000,806,0,1,0,0,0
+"737","Ramp TMII & Dukuh","Seksi","Kramat Jati// Makasar",0.974476055438646,"December 2020",1696115,2020-12-31,"36",2445755,9000,1,1,"X4",7000,807,0,1,0,0,0
+"738","Ramp Cibubur","Seksi","Cipayung//Ciracas//Cimanggis",0.937565580954413,"December 2020",1535713,2020-12-31,"36",2445755,9000,1,1,"X5",7000,808,0,1,0,0,0
+"739","Cawang - Cimanggis","Seksi","Cimanggis",0.907163271626811,"December 2020",8256704,2020-12-31,"36",2445755,9000,1,1,"X6",7000,809,0,1,0,0,0
+"740","Japek","Utama","Bekasi Barat//Pondok Gede//Bekasi Timur//Tambun Selatan//Cibitung//Bekasi Selatan",0.802570510097598,"December 2020",13250228,2020-12-31,"36",2445755,9000,1,1,"X7",3000,810,0,1,0,0,0
+"741","Ramp PGT & PGB","Seksi","Pondok Gede",0.9792717617727,"December 2020",1931697,2020-12-31,"36",2445755,9000,1,1,"X10",1500,811,0,1,0,0,0
+"742","Ramp Cawang-Cikarang","Seksi","Bekasi Barat//Bekasi Timur//Tambun Selatan//Cibitung//Bekasi Selatan",0.787840520191094,"December 2020",4202873,2020-12-31,"36",2445755,9000,1,1,"X11",4500,812,0,1,0,0,0
+"743","Jakarta-Tangerang","Utama","Tanjung Duren//Kebon Jeruk//Kembangan//Karang Tengah//",0.880693561024901,"December 2020",10378064,2020-12-31,"36",2445755,9000,1,1,"X13",7500,814,0,1,0,0,0
+"744","Jakarta-Tangerang","Seksi","Tanjung Duren//Kebon Jeruk//Kembangan//Karang Tengah//",0.880693561024901,"December 2020",10378064,2020-12-31,"36",2445755,9000,1,1,"X13",7500,816,0,1,0,0,0
+"745","Lingkar Dalam & Sedyatmo","NON",NA,0.933530437720865,"December 2020",19007945,2020-12-31,"36",2445755,9000,1,1,"X14",10000,817,0,1,0,0,0
+"746","Dalam Kota Jakarta","Utama",NA,0.936019156888263,"December 2020",14341993,2020-12-31,"36",2445755,9000,1,1,"X15",10000,818,0,1,0,0,0
+"747","Cawang-Tomang-Pluit","Seksi","Jatinegara//Setiabudi//Pancoran//Kebayoran Baru//Tanah Abang//Palmerah//Grogol Petamburan//Tambora//Penjaringan",0.957217930477783,"December 2020",8475051,2020-12-31,"36",2445755,9000,1,1,"X16",10000,819,0,1,0,0,0
+"748","Cawang-Tj.Priok-Pluit","Seksi","Jatinegara//Pulo Gadung//Cempaka Putih//Pademangan//Penjaringan",0.908716760650925,"December 2020",5866942,2020-12-31,"36",2445755,9000,1,1,"X17",10000,820,0,1,0,0,0
+"749","Sedyatmo","Utama","Kalideres//Penjaringan",0.927166437543253,"December 2020",4665952,2020-12-31,"36",2445755,9000,1,1,"X18",7500,821,0,1,0,0,0
+"750","JORR","Utama",NA,0.887383799634147,"December 2020",6278067,2020-12-31,"36",2445755,9000,1,1,"X19",20000,822,1,1,0,0,1
+"751","Seksi W2","Seksi","Kembangan//Pesanggrahan//Cengkareng",0.971589006295137,"December 2020",2147387,2020-12-31,"36",2445755,9000,1,1,"X20",20000,823,1,1,0,0,0
+"752","Seksi S","Seksi","Kebayoran Lama//Jagakarsa//Cilandak//Pasar Minggu//Pesanggrahan//Pasar Rebo//Ciracas",0.939113033953954,"December 2020",3956979,2020-12-31,"36",2445755,9000,1,1,"X21",20000,824,1,1,0,0,1
+"753","Seksi E1","Seksi","Pondok Melati//Jatiasih//Bekasi Selatan",0.807331384607543,"December 2020",2799598,2020-12-31,"36",2445755,9000,1,1,"X22",20000,825,1,1,0,0,0
+"754","Seksi E2","Seksi","Bekasi Barat//Cakung//Cilincing",0.877173204754621,"December 2020",1072395,2020-12-31,"36",2445755,9000,1,1,"X23",20000,826,1,1,0,0,0
+"755","Seksi E3","Seksi","Cakung//Cilincing",0.466393607345187,"December 2020",74996,2020-12-31,"36",2445755,9000,1,1,"X24",20000,827,1,1,0,0,0
+"756","Ulujami – Pondok Aren","Seksi","Serpong//Ciputat//Pondok Aren",0.989144647819015,"December 2020",183691,2020-12-31,"36",2445755,9000,1,1,"X25",7000,828,1,1,0,0,0
